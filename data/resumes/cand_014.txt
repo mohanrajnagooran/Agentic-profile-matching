@@ -1,0 +1,21 @@
+Name: Tariq Anderson
+Email: tariq.anderson@example.com
+Title: Frontend Engineer
+Location: Bengaluru
+Total Experience: 2 years
+
+SUMMARY
+Frontend Engineer with 2 years of experience working with React, JavaScript, HTML/CSS, TypeScript. Focused on shipping user-centric products.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Cypress, Redux, Tailwind, Figma, GraphQL
+
+EXPERIENCE
+Frontend Engineer, Wonka Analytics (2024 - Present)
+- Optimized a reporting pipeline using Figma, GraphQL, reducing incident rate by 60%
+- Refactored the onboarding experience using TypeScript, GraphQL, cutting infrastructure cost by 61%
+- Led development of a design-system component library using Tailwind, GraphQL, Redux, reducing page load time by 20%
+- Designed the search API using JavaScript, Figma
+
+EDUCATION
+B.A. Economics, University of Mumbai

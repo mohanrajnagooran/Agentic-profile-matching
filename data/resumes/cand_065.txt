@@ -1,0 +1,20 @@
+Name: Zara Wilson
+Email: zara.wilson@example.com
+Title: QA Engineer
+Location: Hyderabad
+Total Experience: 0 years
+
+SUMMARY
+QA Engineer with 0 years of experience working with Selenium, Python, Unit Testing, JavaScript. Passionate about clean, maintainable code.
+
+SKILLS
+Selenium, Python, Unit Testing, JavaScript, Agile, Java
+
+EXPERIENCE
+QA Engineer, Oscorp (2025 - Present)
+- Architected the onboarding experience using Unit Testing, Python
+- Migrated a design-system component library using Unit Testing, JavaScript, cutting infrastructure cost by 48%
+- Implemented the search API using Selenium, Unit Testing
+
+EDUCATION
+B.S. Computer Science, University of Texas

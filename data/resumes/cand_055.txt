@@ -1,0 +1,20 @@
+Name: Aarav Harris
+Email: aarav.harris@example.com
+Title: Java Developer
+Location: Bengaluru
+Total Experience: 1 years
+
+SUMMARY
+Java Developer with 1 year of experience working with Java, SQL, AWS, REST APIs. Enjoys solving performance and scale problems.
+
+SKILLS
+Java, SQL, AWS, REST APIs, Kubernetes, Docker, System Design
+
+EXPERIENCE
+Java Developer, Wayne Systems (2025 - Present)
+- Architected the payments service using Docker, System Design, AWS, reducing page load time by 60%
+- Migrated the search API using System Design, Docker, reducing incident rate by 35%
+- Shipped the payments service using REST APIs, SQL, serving 7M monthly users
+
+EDUCATION
+M.S. Computer Science, Georgia Tech

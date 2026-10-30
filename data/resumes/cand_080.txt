@@ -1,0 +1,30 @@
+Name: Omar Nair
+Email: omar.nair@example.com
+Title: Senior Backend Engineer
+Location: Singapore
+Total Experience: 7 years
+
+SUMMARY
+Senior Backend Engineer with 7 years of experience working with Python, Django, PostgreSQL, REST APIs. Comfortable owning features end to end.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Flask, Celery, Microservices, Kafka, FastAPI, Agile
+
+EXPERIENCE
+Senior Backend Engineer, Stark Digital (2024 - Present)
+- Maintained an internal admin portal using Agile, REST APIs, improving conversion by 36%
+- Led development of the mobile companion app using Microservices, Celery, REST APIs, lowering p95 latency by 16%
+- Refactored a design-system component library using Agile
+- Mentored 5 junior engineers
+
+Backend Engineer, PayStream (2022 - 2024)
+- Led development of the mobile companion app using Kafka, Agile, cutting infrastructure cost by 40%
+- Migrated a multi-tenant SaaS platform using Microservices, Python, Celery, lowering p95 latency by 31%
+
+Python Developer, Hooli (2019 - 2022)
+- Maintained a reporting pipeline using Django, reducing page load time by 30%
+- Shipped the onboarding experience using Microservices, Kafka, Python, reducing incident rate by 25%
+- Optimized the onboarding experience using Agile, Kafka, cutting infrastructure cost by 30%
+
+EDUCATION
+B.S. Computer Science, University of Texas

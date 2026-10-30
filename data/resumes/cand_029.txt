@@ -1,0 +1,27 @@
+Name: Lakshmi Thomas
+Email: lakshmi.thomas@example.com
+Title: QA Lead
+Location: Singapore
+Total Experience: 11 years
+
+SUMMARY
+QA Lead with 11 years of experience working with Selenium, Python, Unit Testing, Java. Passionate about clean, maintainable code.
+
+SKILLS
+Selenium, Python, Unit Testing, Java, Agile, CI/CD, Cypress, JavaScript
+
+EXPERIENCE
+QA Lead, Soylent Tech (2021 - Present)
+- Implemented the onboarding experience using Cypress, CI/CD, reducing incident rate by 61%
+- Maintained a real-time notifications system using Unit Testing, reducing incident rate by 32%
+- Maintained a reporting pipeline using Unit Testing, Java, reducing incident rate by 34%
+- Collaborated with product and design in an Agile team
+
+Senior SDET, LogiTrack (2015 - 2021)
+- Maintained an analytics platform using Cypress, Unit Testing, Agile, serving 4M monthly users
+- Migrated a customer-facing dashboard using Cypress, Unit Testing, Agile, serving 3M monthly users
+- Implemented a real-time notifications system using Unit Testing, Cypress, Agile, reducing incident rate by 29%
+- Implemented a customer-facing dashboard using Agile, Unit Testing, lowering p95 latency by 45%
+
+EDUCATION
+B.Sc Mathematics, Delhi University

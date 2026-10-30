@@ -1,0 +1,30 @@
+Name: Liam Khan
+Email: liam.khan@example.com
+Title: Lead Data Scientist
+Location: Toronto
+Total Experience: 14 years
+
+SUMMARY
+Lead Data Scientist with 14 years of experience working with Python, Machine Learning, Pandas, SQL. Enjoys solving performance and scale problems.
+
+SKILLS
+Python, Machine Learning, Pandas, SQL, PyTorch, Spark, scikit-learn, Tableau, NLP, LLMs
+
+EXPERIENCE
+Lead Data Scientist, Vandelay Industries (2020 - Present)
+- Shipped the mobile companion app using Pandas, Machine Learning, reducing incident rate by 50%
+- Shipped a reporting pipeline using scikit-learn, SQL, PyTorch, serving 5M monthly users
+- Ran code reviews and set engineering standards
+
+Senior Data Scientist, FinEdge (2015 - 2020)
+- Optimized an analytics platform using Pandas, Machine Learning, reducing page load time by 60%
+- Shipped a customer-facing dashboard using Machine Learning, Pandas, PyTorch, reducing incident rate by 18%
+- Built a real-time notifications system using Machine Learning, serving 6M monthly users
+- Migrated a real-time notifications system using LLMs, SQL
+
+Data Scientist, ShopSphere (2011 - 2014)
+- Built the onboarding experience using PyTorch, Tableau, improving conversion by 38%
+- Migrated a real-time notifications system using Machine Learning
+
+EDUCATION
+B.Tech Electronics, NIT Trichy

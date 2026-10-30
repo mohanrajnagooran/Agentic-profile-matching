@@ -1,0 +1,24 @@
+Name: Samuel Pillai
+Email: samuel.pillai@example.com
+Title: Mobile Engineer
+Location: London
+Total Experience: 3 years
+
+SUMMARY
+Mobile Engineer with 3 years of experience working with React Native, JavaScript, TypeScript, Swift. Focused on shipping user-centric products.
+
+SKILLS
+React Native, JavaScript, TypeScript, Swift, React, Jest, Android, Kotlin, Agile
+
+EXPERIENCE
+Mobile Engineer, Nakatomi Cloud (2024 - Present)
+- Built the onboarding experience using Jest, reducing page load time by 25%
+- Built an analytics platform using Swift, JavaScript, cutting infrastructure cost by 43%
+
+Mobile Developer, Umbrella Labs (2023 - 2024)
+- Refactored an internal admin portal using JavaScript, reducing incident rate by 16%
+- Shipped a reporting pipeline using Swift, TypeScript, lowering p95 latency by 55%
+- Built a multi-tenant SaaS platform using React Native, TypeScript, cutting infrastructure cost by 33%
+
+EDUCATION
+B.S. Computer Science, University of Texas

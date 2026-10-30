@@ -1,0 +1,31 @@
+Name: Mateo Clark
+Email: mateo.clark@example.com
+Title: Principal Engineer
+Location: Austin
+Total Experience: 14 years
+
+SUMMARY
+Principal Engineer with 14 years of experience working with Python, Django, PostgreSQL, REST APIs. Focused on shipping user-centric products.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, FastAPI, Celery, System Design, Kafka, Flask, Agile
+
+EXPERIENCE
+Principal Engineer, Vandelay Industries (2021 - Present)
+- Optimized the search API using FastAPI, Celery, reducing incident rate by 63%
+- Refactored a multi-tenant SaaS platform using Django, Celery, REST APIs, lowering p95 latency by 53%
+- Ran code reviews and set engineering standards
+
+Senior Backend Engineer, Wonka Analytics (2017 - 2021)
+- Refactored the onboarding experience using REST APIs, Celery, reducing page load time by 17%
+- Migrated a multi-tenant SaaS platform using FastAPI, Agile, lowering p95 latency by 37%
+
+Backend Engineer, ShopSphere (2012 - 2017)
+- Designed a real-time notifications system using Celery, Python, cutting infrastructure cost by 37%
+- Shipped the search API using Django, Agile, Celery, reducing page load time by 18%
+
+EDUCATION
+MBA, IIM Bangalore
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

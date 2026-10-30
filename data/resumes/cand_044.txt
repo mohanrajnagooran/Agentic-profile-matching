@@ -1,0 +1,25 @@
+Name: Ava White
+Email: ava.white@example.com
+Title: UI Engineer
+Location: Austin
+Total Experience: 4 years
+
+SUMMARY
+UI Engineer with 4 years of experience working with Angular, TypeScript, JavaScript, Node.js. Focused on shipping user-centric products.
+
+SKILLS
+Angular, TypeScript, JavaScript, Node.js, Jest, REST APIs, Agile
+
+EXPERIENCE
+UI Engineer, Umbrella Labs (2024 - Present)
+- Refactored the mobile companion app using JavaScript, Angular, lowering p95 latency by 19%
+- Built a real-time notifications system using Angular
+- Led development of a customer-facing dashboard using Node.js, TypeScript, reducing incident rate by 63%
+- Optimized the checkout flow using Node.js, REST APIs, reducing page load time by 48%
+
+Angular Developer, Wonka Analytics (2022 - 2024)
+- Designed the search API using Jest, REST APIs
+- Refactored the checkout flow using Agile, Jest, lowering p95 latency by 51%
+
+EDUCATION
+-

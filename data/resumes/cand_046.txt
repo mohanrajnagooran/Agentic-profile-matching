@@ -1,0 +1,31 @@
+Name: Liam Brown
+Email: liam.brown@example.com
+Title: Senior DevOps Engineer
+Location: Mumbai
+Total Experience: 5 years
+
+SUMMARY
+Senior DevOps Engineer with 5 years of experience working with Docker, Kubernetes, Terraform, Azure. Passionate about clean, maintainable code.
+
+SKILLS
+Docker, Kubernetes, Terraform, Azure, Agile
+
+EXPERIENCE
+Senior DevOps Engineer, Globex (2024 - Present)
+- Designed an internal admin portal using Docker, Azure
+- Led development of a real-time notifications system using Kubernetes, improving conversion by 35%
+- Designed a real-time notifications system using Docker, Agile, lowering p95 latency by 40%
+- Ran code reviews and set engineering standards
+
+Site Reliability Engineer, Massive Dynamic (2021 - 2024)
+- Shipped an internal admin portal using Azure, serving 6M monthly users
+- Refactored a multi-tenant SaaS platform using Agile, Azure, reducing incident rate by 27%
+- Migrated the onboarding experience using Agile, Azure, cutting infrastructure cost by 38%
+- Optimized a design-system component library using Agile, Azure, reducing incident rate by 62%
+
+EDUCATION
+MBA, IIM Bangalore
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)
+Microsoft Azure Developer Associate

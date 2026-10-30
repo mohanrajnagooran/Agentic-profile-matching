@@ -1,0 +1,30 @@
+Name: Fatima Lopez
+Email: fatima.lopez@example.com
+Title: Platform Lead
+Location: Hyderabad
+Total Experience: 11 years
+
+SUMMARY
+Platform Lead with 11 years of experience working with Docker, Kubernetes, AWS, Terraform. Passionate about clean, maintainable code.
+
+SKILLS
+Docker, Kubernetes, AWS, Terraform, GCP, Azure, Python, Agile
+
+EXPERIENCE
+Platform Lead, Tyrell Software (2021 - Present)
+- Migrated a real-time notifications system using GCP, Azure
+- Refactored the onboarding experience using Docker, Python
+- Architected the checkout flow using Docker, Azure
+- Partnered with stakeholders to define the roadmap
+
+Senior DevOps Engineer, HealthBridge (2015 - 2021)
+- Migrated the payments service using AWS, Agile
+- Optimized the mobile companion app using Agile, AWS
+- Shipped a reporting pipeline using AWS, Azure, serving 19M monthly users
+- Built the mobile companion app using Kubernetes
+
+EDUCATION
+B.Tech Electronics, NIT Trichy
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

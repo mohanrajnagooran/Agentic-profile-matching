@@ -1,0 +1,21 @@
+Name: Pedro Nguyen
+Email: pedro.nguyen@example.com
+Title: Full Stack Developer
+Location: Bengaluru
+Total Experience: 1 years
+
+SUMMARY
+Full Stack Developer with 1 year of experience working with React, TypeScript, Node.js, JavaScript. Passionate about clean, maintainable code.
+
+SKILLS
+React, TypeScript, Node.js, JavaScript, REST APIs, Express
+
+EXPERIENCE
+Full Stack Developer, Pied Piper (2025 - Present)
+- Implemented a multi-tenant SaaS platform using React, Node.js, lowering p95 latency by 16%
+- Designed a design-system component library using Express, JavaScript
+- Maintained an analytics platform using Node.js, improving conversion by 64%
+- Migrated the search API using REST APIs, reducing page load time by 58%
+
+EDUCATION
+Coding Bootcamp, General Assembly

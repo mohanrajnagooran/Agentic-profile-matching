@@ -1,0 +1,21 @@
+Name: Lakshmi White
+Email: lakshmi.white@example.com
+Title: Frontend Developer
+Location: Singapore
+Total Experience: 1 years
+
+SUMMARY
+Frontend Developer with 1 year of experience working with React, JavaScript, HTML/CSS, TypeScript. Passionate about clean, maintainable code.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Figma, Jest
+
+EXPERIENCE
+Frontend Developer, Wonka Analytics (2025 - Present)
+- Maintained the search API using JavaScript, Jest
+- Implemented an internal admin portal using Figma, TypeScript, HTML/CSS, reducing incident rate by 43%
+- Led development of the mobile companion app using JavaScript
+- Shipped a multi-tenant SaaS platform using TypeScript
+
+EDUCATION
+-

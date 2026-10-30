@@ -1,0 +1,31 @@
+Name: Ethan Wilson
+Email: ethan.wilson@example.com
+Title: Senior Frontend Engineer
+Location: Remote
+Total Experience: 8 years
+
+SUMMARY
+Senior Frontend Engineer with 8 years of experience working with React, JavaScript, HTML/CSS, TypeScript. Focused on shipping user-centric products.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Redux, Jest, Next.js, Node.js, Agile
+
+EXPERIENCE
+Senior Frontend Engineer, Acme Corp (2024 - Present)
+- Maintained a design-system component library using React, Node.js, HTML/CSS
+- Designed a reporting pipeline using HTML/CSS
+- Maintained the checkout flow using HTML/CSS, Agile
+- Collaborated with product and design in an Agile team
+
+Frontend Engineer, LogiTrack (2021 - 2024)
+- Optimized a multi-tenant SaaS platform using Node.js, reducing page load time by 65%
+- Architected a design-system component library using Node.js
+- Optimized a customer-facing dashboard using React, JavaScript
+
+Frontend Developer, Umbrella Labs (2018 - 2021)
+- Refactored the onboarding experience using Agile
+- Shipped the payments service using TypeScript, Agile
+- Shipped the checkout flow using TypeScript, React, lowering p95 latency by 60%
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

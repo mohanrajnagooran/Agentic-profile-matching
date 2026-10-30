@@ -1,0 +1,24 @@
+Name: Felix Ito
+Email: felix.ito@example.com
+Title: Senior Data Scientist
+Location: Chennai
+Total Experience: 5 years
+
+SUMMARY
+Senior Data Scientist with 5 years of experience working with Python, Machine Learning, Pandas, SQL. Passionate about clean, maintainable code.
+
+SKILLS
+Python, Machine Learning, Pandas, SQL, LLMs, NLP, Tableau, TensorFlow, scikit-learn
+
+EXPERIENCE
+Senior Data Scientist, Pied Piper (2023 - Present)
+- Built the search API using LLMs, Tableau, scikit-learn
+- Migrated the onboarding experience using Pandas, SQL, Machine Learning, improving conversion by 32%
+- Partnered with stakeholders to define the roadmap
+
+Data Scientist, LogiTrack (2021 - 2023)
+- Architected the search API using Machine Learning, Tableau, improving conversion by 39%
+- Migrated the checkout flow using Tableau, SQL, lowering p95 latency by 47%
+
+EDUCATION
+-

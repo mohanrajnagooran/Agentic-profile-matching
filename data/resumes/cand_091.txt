@@ -1,0 +1,23 @@
+Name: Arjun Reddy
+Email: arjun.reddy@example.com
+Title: Frontend Engineer
+Location: Hyderabad
+Total Experience: 3 years
+
+SUMMARY
+Frontend Engineer with 3 years of experience working with JavaScript, TypeScript, Node.js, Vue. Enjoys solving performance and scale problems.
+
+SKILLS
+JavaScript, TypeScript, Node.js, Vue, Agile
+
+EXPERIENCE
+Frontend Engineer, Hooli (2024 - Present)
+- Implemented the search API using Vue, Agile, cutting infrastructure cost by 38%
+- Designed the search API using JavaScript, Vue
+
+Frontend Developer, Wayne Systems (2023 - 2024)
+- Migrated a design-system component library using JavaScript, reducing incident rate by 59%
+- Migrated the onboarding experience using Node.js, JavaScript
+
+EDUCATION
+B.Tech Electronics, NIT Trichy

@@ -1,0 +1,36 @@
+Name: Aarav Jackson
+Email: aarav.jackson@example.com
+Title: Senior Backend Engineer
+Location: Singapore
+Total Experience: 8 years
+
+SUMMARY
+Senior Backend Engineer with 8 years of experience working with Django, PostgreSQL, REST APIs, AWS. Enjoys solving performance and scale problems.
+
+SKILLS
+Django, PostgreSQL, REST APIs, AWS, FastAPI, Docker, Agile
+
+EXPERIENCE
+Senior Backend Engineer, Hooli (2024 - Present)
+- Migrated the payments service using Agile, AWS, PostgreSQL, improving conversion by 52%
+- Maintained the checkout flow using REST APIs, Docker
+- Mentored 3 junior engineers
+
+Backend Engineer, Oscorp (2022 - 2024)
+- Built an internal admin portal using REST APIs, FastAPI, reducing page load time by 30%
+- Led development of a customer-facing dashboard using REST APIs, AWS, FastAPI, improving conversion by 25%
+
+Python Developer, Medisync (2019 - 2022)
+- Implemented the checkout flow using AWS, REST APIs, FastAPI, improving conversion by 65%
+- Implemented an analytics platform using REST APIs, FastAPI, reducing page load time by 24%
+
+Python Developer, PayStream (2018 - 2019)
+- Migrated a design-system component library using PostgreSQL, lowering p95 latency by 31%
+- Designed a real-time notifications system using AWS, lowering p95 latency by 39%
+- Implemented a customer-facing dashboard using PostgreSQL, AWS, reducing page load time by 49%
+
+EDUCATION
+B.E. Information Technology, VIT
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

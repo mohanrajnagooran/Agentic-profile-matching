@@ -1,0 +1,20 @@
+Name: Zara Harris
+Email: zara.harris@example.com
+Title: Full Stack Developer
+Location: Bengaluru
+Total Experience: 1 years
+
+SUMMARY
+Full Stack Developer with 1 year of experience working with React, TypeScript, Node.js, REST APIs. Passionate about clean, maintainable code.
+
+SKILLS
+React, TypeScript, Node.js, REST APIs, Next.js, Express, Docker, PostgreSQL, Agile
+
+EXPERIENCE
+Full Stack Developer, Soylent Tech (2025 - Present)
+- Maintained an internal admin portal using Next.js, React, Express, improving conversion by 65%
+- Refactored an analytics platform using Node.js, reducing incident rate by 20%
+- Refactored an analytics platform using React, Node.js, REST APIs, cutting infrastructure cost by 41%
+
+EDUCATION
+B.S. Computer Science, University of Texas

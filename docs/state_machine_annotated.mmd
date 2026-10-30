@@ -1,0 +1,34 @@
+%%{init: {"flowchart": {"nodeSpacing": 45, "rankSpacing": 70}}}%%
+flowchart TD
+    START([START]):::term --> parse_jd["parse_jd<br/><small>load JD or NL query</small>"]
+    parse_jd --> extract["extract_requirements<br/><small>must-have vs nice-to-have,<br/>years, education, location</small>"]
+    extract --> search["search_resumes<br/><small>RAG search (rag_search)</small>"]
+    search --> rank["rank_candidates<br/><small>score all 100, top-10 shortlist,<br/>diff vs previous ranking</small>"]
+    rank --> report["generate_report<br/><small>shortlist + strengths/gaps,<br/>explain rank changes</small>"]
+    report --> HF{{"human_feedback<br/><small>interrupt() — wait for user,<br/>classify intent</small>"}}:::hitl
+
+    HF -- "done" --> END([END]):::term
+    HF -- "new search" --> extract
+    HF -- refine --> refine["refine_requirements<br/><small>apply NL change</small>"]
+    refine -- "re-rank" --> search
+    refine -.-> HF
+    HF -- "reset" --> search
+    HF -- compare --> compare["compare_node<br/><small>compare_candidates</small>"]
+    HF -- explain --> explain["explain_node<br/><small>point-by-point + what-if</small>"]
+    HF -- questions --> interview["interview_node<br/><small>generate_interview_questions</small>"]
+    HF -- report --> detail["candidate_report_node<br/><small>match report + suggestions</small>"]
+    HF -- screen --> screen["screening_node<br/><small>R1 top-10 → R2 deep →<br/>R3 hire / no-hire</small>"]
+    HF -- show --> status["status_node"]
+    HF -- other --> agent["tool_agent<br/><small>LLM + all tools (optional)</small>"]
+
+    compare --> HF
+    explain --> HF
+    interview --> HF
+    detail --> HF
+    screen --> HF
+    status --> HF
+    agent --> HF
+
+    classDef term fill:#1f2937,color:#fff,stroke:#1f2937
+    classDef hitl fill:#fde68a,stroke:#b45309,color:#111
+    classDef default fill:#eef2ff,stroke:#6366f1,color:#111

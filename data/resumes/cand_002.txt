@@ -1,0 +1,27 @@
+Name: Jane Doe
+Email: jane.doe@example.com
+Title: Full Stack Engineer
+Location: Bengaluru
+Total Experience: 4 years
+
+SUMMARY
+Full Stack Engineer with 4 years of experience shipping cloud-native products on AWS with React and Node.js. Strong DevOps background.
+
+SKILLS
+React, Node.js, JavaScript, AWS, Docker, Kubernetes, Terraform, PostgreSQL, CI/CD, Express
+
+EXPERIENCE
+Full Stack Engineer, PayStream (2024 - Present)
+- Architected a multi-tenant SaaS platform using Node.js, AWS and Kubernetes, cutting infrastructure cost by 40%
+- Built a customer-facing dashboard using React and Express
+- Set up CI/CD and Terraform pipelines for 12 services
+
+Full Stack Developer, HealthBridge (2022 - 2024)
+- Implemented the payments service using Node.js, PostgreSQL and Docker
+- Shipped the onboarding experience using React and JavaScript
+
+EDUCATION
+B.E. Information Technology, VIT
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

@@ -1,0 +1,22 @@
+Name: Karthik Thomas
+Email: karthik.thomas@example.com
+Title: Software Engineer
+Location: Singapore
+Total Experience: 2 years
+
+SUMMARY
+Software Engineer with 2 years of experience working with Java, Spring Boot, SQL, Microservices. Passionate about clean, maintainable code.
+
+SKILLS
+Java, Spring Boot, SQL, Microservices, System Design, REST APIs, Docker, AWS, MySQL, Agile
+
+EXPERIENCE
+Software Engineer, Soylent Tech (2024 - Present)
+- Implemented the checkout flow using MySQL, serving 10M monthly users
+- Refactored a reporting pipeline using Microservices, Spring Boot, MySQL
+
+EDUCATION
+B.Tech Electronics, NIT Trichy
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

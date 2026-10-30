@@ -1,0 +1,25 @@
+Name: Aarav Rao
+Email: aarav.rao@example.com
+Title: Data Scientist
+Location: Hyderabad
+Total Experience: 3 years
+
+SUMMARY
+Data Scientist with 3 years of experience working with Python, Pandas, SQL, Tableau. Passionate about clean, maintainable code.
+
+SKILLS
+Python, Pandas, SQL, Tableau, PyTorch, Agile
+
+EXPERIENCE
+Data Scientist, Medisync (2024 - Present)
+- Shipped an internal admin portal using Pandas
+- Architected an internal admin portal using Tableau
+
+Data Analyst, Tyrell Software (2023 - 2024)
+- Maintained the search API using SQL, Agile
+- Implemented the payments service using Tableau, Agile
+- Built an analytics platform using SQL, Tableau, Python
+- Refactored the mobile companion app using Agile, Python
+
+EDUCATION
+B.E. Information Technology, VIT

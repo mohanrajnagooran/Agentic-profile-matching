@@ -1,0 +1,19 @@
+Name: Aiko Iyer
+Email: aiko.iyer@example.com
+Title: Full Stack Developer
+Location: Hyderabad
+Total Experience: 1 years
+
+SUMMARY
+Full Stack Developer with 1 year of experience working with React, TypeScript, Node.js, JavaScript. Comfortable owning features end to end.
+
+SKILLS
+React, TypeScript, Node.js, JavaScript, REST APIs, PostgreSQL, Redux, Kubernetes
+
+EXPERIENCE
+Full Stack Developer, EduNova (2025 - Present)
+- Designed the search API using TypeScript, Node.js
+- Refactored an internal admin portal using REST APIs, PostgreSQL, serving 19M monthly users
+
+EDUCATION
+B.A. Economics, University of Mumbai

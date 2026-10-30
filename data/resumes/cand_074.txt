@@ -1,0 +1,31 @@
+Name: Lucas Kim
+Email: lucas.kim@example.com
+Title: Senior .NET Engineer
+Location: Berlin
+Total Experience: 5 years
+
+SUMMARY
+Senior .NET Engineer with 5 years of experience working with .NET, SQL, Docker, Angular. Passionate about clean, maintainable code.
+
+SKILLS
+.NET, SQL, Docker, Angular, Microservices, Azure
+
+EXPERIENCE
+Senior .NET Engineer, Vandelay Industries (2024 - Present)
+- Refactored the search API using SQL, Azure
+- Maintained an internal admin portal using SQL, Docker
+- Led development of a reporting pipeline using Azure, Microservices
+- Mentored 3 junior engineers
+
+Software Engineer, Hooli (2023 - 2024)
+- Designed an internal admin portal using Docker, Angular, cutting infrastructure cost by 13%
+- Built a reporting pipeline using Docker, Angular
+- Optimized an internal admin portal using Docker, Angular, improving conversion by 43%
+
+.NET Developer, ShopSphere (2021 - 2023)
+- Designed an internal admin portal using Angular, .NET
+- Architected a real-time notifications system using .NET, Angular
+- Optimized the onboarding experience using .NET
+
+EDUCATION
+Coding Bootcamp, General Assembly

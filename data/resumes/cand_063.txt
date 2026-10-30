@@ -1,0 +1,30 @@
+Name: Hannah Singh
+Email: hannah.singh@example.com
+Title: Senior DevOps Engineer
+Location: Austin
+Total Experience: 6 years
+
+SUMMARY
+Senior DevOps Engineer with 6 years of experience working with Docker, Kubernetes, AWS, Go. Passionate about clean, maintainable code.
+
+SKILLS
+Docker, Kubernetes, AWS, Go, Python, CI/CD, Linux, Agile
+
+EXPERIENCE
+Senior DevOps Engineer, Massive Dynamic (2022 - Present)
+- Built a multi-tenant SaaS platform using Python, Kubernetes, Docker, reducing incident rate by 19%
+- Optimized the payments service using CI/CD, Go, cutting infrastructure cost by 39%
+- Partnered with stakeholders to define the roadmap
+
+Site Reliability Engineer, Hooli (2020 - 2022)
+- Shipped an analytics platform using Kubernetes, Docker, Python
+- Implemented a design-system component library using Docker, lowering p95 latency by 22%
+- Led development of the onboarding experience using Kubernetes, Python, Linux, lowering p95 latency by 12%
+
+EDUCATION
+B.E. Information Technology, VIT
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)
+AWS Certified Solutions Architect – Associate
+Certified ScrumMaster (CSM)

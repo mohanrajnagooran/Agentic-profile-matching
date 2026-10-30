@@ -1,0 +1,28 @@
+Name: Aiko Silva
+Email: aiko.silva@example.com
+Title: UI Architect
+Location: Singapore
+Total Experience: 9 years
+
+SUMMARY
+UI Architect with 9 years of experience working with Angular, TypeScript, HTML/CSS, JavaScript. Comfortable owning features end to end.
+
+SKILLS
+Angular, TypeScript, HTML/CSS, JavaScript, REST APIs
+
+EXPERIENCE
+UI Architect, Cyberdyne (2021 - Present)
+- Designed the checkout flow using HTML/CSS, reducing page load time by 24%
+- Implemented the payments service using HTML/CSS, TypeScript, serving 3M monthly users
+- Optimized a multi-tenant SaaS platform using JavaScript, REST APIs
+- Optimized the onboarding experience using REST APIs, HTML/CSS
+- Ran code reviews and set engineering standards
+
+Senior UI Engineer, HealthBridge (2017 - 2021)
+- Migrated a design-system component library using REST APIs, Angular, HTML/CSS
+- Migrated an internal admin portal using Angular, HTML/CSS, reducing incident rate by 24%
+- Designed a customer-facing dashboard using Angular
+- Refactored the onboarding experience using Angular
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

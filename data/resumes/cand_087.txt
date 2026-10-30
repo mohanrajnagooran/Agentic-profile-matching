@@ -1,0 +1,40 @@
+Name: Emma Sharma
+Email: emma.sharma@example.com
+Title: Senior DevOps Engineer
+Location: Berlin
+Total Experience: 8 years
+
+SUMMARY
+Senior DevOps Engineer with 8 years of experience working with Docker, Kubernetes, AWS, Terraform. Focused on shipping user-centric products.
+
+SKILLS
+Docker, Kubernetes, AWS, Terraform, CI/CD, Go, GCP, Azure, Linux, Agile
+
+EXPERIENCE
+Senior DevOps Engineer, HealthBridge (2024 - Present)
+- Optimized the search API using GCP, reducing page load time by 30%
+- Built the search API using Kubernetes, Go, lowering p95 latency by 35%
+- Optimized a reporting pipeline using Azure, Docker, cutting infrastructure cost by 53%
+- Implemented the search API using AWS, Go, reducing page load time by 53%
+
+Site Reliability Engineer, Wayne Systems (2022 - 2024)
+- Maintained the search API using AWS, GCP, reducing page load time by 42%
+- Optimized the mobile companion app using AWS, CI/CD, lowering p95 latency by 63%
+
+DevOps Engineer, Pied Piper (2020 - 2022)
+- Implemented the search API using Docker, AWS, lowering p95 latency by 13%
+- Shipped a design-system component library using Docker, CI/CD, lowering p95 latency by 53%
+
+DevOps Engineer, Hooli (2018 - 2020)
+- Maintained the search API using Agile, Go, improving conversion by 41%
+- Implemented a design-system component library using Linux, Agile, serving 2M monthly users
+- Refactored an internal admin portal using Agile, Terraform, lowering p95 latency by 46%
+- Implemented the payments service using Linux, Terraform, reducing page load time by 32%
+
+EDUCATION
+M.S. Computer Science, Georgia Tech
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate
+Google Cloud Professional Developer
+Microsoft Azure Developer Associate

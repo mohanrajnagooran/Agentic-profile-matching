@@ -1,0 +1,20 @@
+Name: Aiko Garcia
+Email: aiko.garcia@example.com
+Title: DevOps Engineer
+Location: Hyderabad
+Total Experience: 1 years
+
+SUMMARY
+DevOps Engineer with 1 year of experience working with Docker, Kubernetes, AWS, Terraform. Comfortable owning features end to end.
+
+SKILLS
+Docker, Kubernetes, AWS, Terraform, GCP, Go, Agile
+
+EXPERIENCE
+DevOps Engineer, Soylent Tech (2025 - Present)
+- Maintained the payments service using Terraform
+- Implemented an internal admin portal using Docker, improving conversion by 43%
+- Built the onboarding experience using Docker, Kubernetes, Terraform
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

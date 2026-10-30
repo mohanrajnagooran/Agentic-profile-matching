@@ -1,0 +1,31 @@
+Name: Nikhil Garcia
+Email: nikhil.garcia@example.com
+Title: Senior Full Stack Engineer
+Location: Pune
+Total Experience: 6 years
+
+SUMMARY
+Senior Full Stack Engineer with 6 years of experience working with React, TypeScript, Node.js, JavaScript. Comfortable owning features end to end.
+
+SKILLS
+React, TypeScript, Node.js, JavaScript, REST APIs, Docker, CI/CD, Express
+
+EXPERIENCE
+Senior Full Stack Engineer, Oscorp (2023 - Present)
+- Migrated an internal admin portal using Docker, React, CI/CD, reducing incident rate by 28%
+- Shipped a multi-tenant SaaS platform using Docker, Express, Node.js, reducing incident rate by 19%
+- Shipped a customer-facing dashboard using REST APIs, React
+- Collaborated with product and design in an Agile team
+
+Full Stack Engineer, Initech (2020 - 2022)
+- Maintained an internal admin portal using React, Express, Node.js, cutting infrastructure cost by 38%
+- Maintained a customer-facing dashboard using React, Express
+- Refactored the mobile companion app using Node.js, React, serving 15M monthly users
+- Led development of the mobile companion app using Node.js, React
+
+Full Stack Developer, Hooli (2019 - 2020)
+- Architected a multi-tenant SaaS platform using React, reducing page load time by 41%
+- Shipped a real-time notifications system using Node.js, Express
+
+EDUCATION
+B.E. Information Technology, VIT

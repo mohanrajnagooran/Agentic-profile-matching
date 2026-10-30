@@ -1,0 +1,21 @@
+Senior Full Stack Engineer — FinEdge Payments
+
+About the role
+We are looking for a Senior Full Stack Engineer to build our merchant dashboard and payments APIs.
+
+Must have
+- 5+ years of professional software engineering experience
+- Strong React experience (3+ years)
+- TypeScript
+- Node.js for backend services
+- Experience designing REST APIs
+
+Nice to have
+- AWS
+- Docker
+- GraphQL
+- Experience with PostgreSQL
+- Kubernetes is a plus
+
+Education
+- Bachelor's degree in Computer Science or related field preferred

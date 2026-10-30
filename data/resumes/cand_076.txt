@@ -1,0 +1,32 @@
+Name: Samuel Moore
+Email: samuel.moore@example.com
+Title: Senior Full Stack Engineer
+Location: London
+Total Experience: 6 years
+
+SUMMARY
+Senior Full Stack Engineer with 6 years of experience working with React, TypeScript, Node.js, REST APIs. Passionate about clean, maintainable code.
+
+SKILLS
+React, TypeScript, Node.js, REST APIs, Redux, Next.js, Agile
+
+EXPERIENCE
+Senior Full Stack Engineer, ShopSphere (2024 - Present)
+- Led development of an analytics platform using Agile, TypeScript
+- Architected the checkout flow using Node.js, Next.js, lowering p95 latency by 23%
+- Migrated a customer-facing dashboard using React, Redux
+- Architected a real-time notifications system using Redux, React, Agile, cutting infrastructure cost by 49%
+- Partnered with stakeholders to define the roadmap
+
+Full Stack Engineer, Oscorp (2023 - 2024)
+- Built an internal admin portal using Agile, reducing page load time by 54%
+- Built the payments service using Agile, Redux
+
+Full Stack Developer, Globex (2020 - 2023)
+- Built the payments service using Redux, Next.js
+- Designed the onboarding experience using Redux, Next.js
+- Architected an internal admin portal using Redux
+- Maintained a real-time notifications system using Redux, Next.js, lowering p95 latency by 25%
+
+EDUCATION
+B.A. Economics, University of Mumbai

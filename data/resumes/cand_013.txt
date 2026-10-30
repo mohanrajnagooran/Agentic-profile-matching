@@ -1,0 +1,24 @@
+Name: Vikram Wilson
+Email: vikram.wilson@example.com
+Title: Full Stack Engineer
+Location: San Francisco
+Total Experience: 2 years
+
+SUMMARY
+Full Stack Engineer with 2 years of experience working with TypeScript, Node.js, REST APIs, Jest. Focused on shipping user-centric products.
+
+SKILLS
+TypeScript, Node.js, REST APIs, Jest, Redux, Express, Docker, PostgreSQL, Agile
+
+EXPERIENCE
+Full Stack Engineer, Oscorp (2024 - Present)
+- Migrated the search API using Jest, cutting infrastructure cost by 30%
+- Refactored a real-time notifications system using Node.js, TypeScript, Express
+- Maintained the onboarding experience using Agile, TypeScript, reducing page load time by 26%
+- Architected an analytics platform using REST APIs, serving 9M monthly users
+
+EDUCATION
+-
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

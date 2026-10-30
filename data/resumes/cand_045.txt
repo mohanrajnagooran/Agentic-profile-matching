@@ -1,0 +1,25 @@
+Name: Sanjay Ito
+Email: sanjay.ito@example.com
+Title: Software Engineer
+Location: Austin
+Total Experience: 4 years
+
+SUMMARY
+Software Engineer with 4 years of experience working with C#, SQL, React, Azure. Enjoys solving performance and scale problems.
+
+SKILLS
+C#, SQL, React, Azure, Angular, Microservices, Docker
+
+EXPERIENCE
+Software Engineer, LogiTrack (2025 - Present)
+- Migrated the payments service using SQL, reducing page load time by 26%
+- Designed a multi-tenant SaaS platform using Azure, Microservices, reducing page load time by 44%
+
+.NET Developer, Wonka Analytics (2022 - 2025)
+- Optimized the onboarding experience using C#, Azure
+- Migrated a real-time notifications system using C#, Azure, reducing page load time by 24%
+- Designed an internal admin portal using Angular
+- Maintained a reporting pipeline using C#, Angular, cutting infrastructure cost by 40%
+
+EDUCATION
+B.S. Computer Science, University of Texas

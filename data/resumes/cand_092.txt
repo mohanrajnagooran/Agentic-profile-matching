@@ -1,0 +1,23 @@
+Name: Lucia Nair
+Email: lucia.nair@example.com
+Title: Full Stack Engineer
+Location: Bengaluru
+Total Experience: 2 years
+
+SUMMARY
+Full Stack Engineer with 2 years of experience working with React, TypeScript, Node.js, JavaScript. Passionate about clean, maintainable code.
+
+SKILLS
+React, TypeScript, Node.js, JavaScript, REST APIs, Kubernetes, GraphQL, AWS, CI/CD, Next.js, Jest, Agile
+
+EXPERIENCE
+Full Stack Engineer, Nakatomi Cloud (2024 - Present)
+- Refactored a multi-tenant SaaS platform using Agile, AWS, REST APIs, serving 13M monthly users
+- Led development of a design-system component library using AWS, CI/CD, REST APIs, reducing page load time by 19%
+- Built the payments service using Jest, Node.js, lowering p95 latency by 15%
+
+EDUCATION
+-
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

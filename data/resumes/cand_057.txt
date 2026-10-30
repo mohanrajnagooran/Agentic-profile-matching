@@ -1,0 +1,28 @@
+Name: Tariq Brown
+Email: tariq.brown@example.com
+Title: Software Engineer
+Location: London
+Total Experience: 3 years
+
+SUMMARY
+Software Engineer with 3 years of experience working with Java, Spring Boot, SQL, Microservices. Enjoys solving performance and scale problems.
+
+SKILLS
+Java, Spring Boot, SQL, Microservices, REST APIs, MySQL, Agile
+
+EXPERIENCE
+Software Engineer, Globex (2024 - Present)
+- Architected an analytics platform using Java, SQL
+- Optimized a multi-tenant SaaS platform using Spring Boot
+
+Java Developer, Zoho-like Co (2023 - 2024)
+- Maintained a real-time notifications system using SQL
+- Shipped the search API using MySQL
+- Implemented a real-time notifications system using SQL
+- Implemented a multi-tenant SaaS platform using SQL, MySQL
+
+EDUCATION
+B.A. Economics, University of Mumbai
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

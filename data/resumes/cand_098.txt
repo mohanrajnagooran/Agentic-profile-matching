@@ -1,0 +1,20 @@
+Name: Tariq Chen
+Email: tariq.chen@example.com
+Title: Python Developer
+Location: Berlin
+Total Experience: 1 years
+
+SUMMARY
+Python Developer with 1 year of experience working with Python, Django, PostgreSQL, REST APIs. Enjoys solving performance and scale problems.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, FastAPI, System Design, Redis
+
+EXPERIENCE
+Python Developer, Medisync (2025 - Present)
+- Refactored an internal admin portal using FastAPI, Python
+- Designed a reporting pipeline using PostgreSQL, REST APIs, Django, lowering p95 latency by 45%
+- Built an internal admin portal using PostgreSQL, improving conversion by 65%
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

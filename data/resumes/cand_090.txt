@@ -1,0 +1,23 @@
+Name: Sanjay Wilson
+Email: sanjay.wilson@example.com
+Title: Mobile Engineer
+Location: Berlin
+Total Experience: 3 years
+
+SUMMARY
+Mobile Engineer with 3 years of experience working with React Native, JavaScript, TypeScript, Kotlin. Passionate about clean, maintainable code.
+
+SKILLS
+React Native, JavaScript, TypeScript, Kotlin, Jest
+
+EXPERIENCE
+Mobile Engineer, Soylent Tech (2025 - Present)
+- Architected the onboarding experience using React Native, Jest, Kotlin
+- Maintained a multi-tenant SaaS platform using React Native, reducing page load time by 42%
+
+Mobile Developer, Zoho-like Co (2022 - 2024)
+- Optimized a customer-facing dashboard using React Native, Jest
+- Led development of the search API using Jest, React Native, lowering p95 latency by 51%
+
+EDUCATION
+PhD Computer Science, Stanford University

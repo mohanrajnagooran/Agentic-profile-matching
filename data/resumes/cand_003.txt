@@ -1,0 +1,25 @@
+Name: Priya Pillai
+Email: priya.pillai@example.com
+Title: Software Engineer
+Location: Singapore
+Total Experience: 4 years
+
+SUMMARY
+Software Engineer with 4 years of experience working with Java, Spring Boot, SQL, Microservices. Focused on shipping user-centric products.
+
+SKILLS
+Java, Spring Boot, SQL, Microservices, Kafka, MySQL, Kubernetes, System Design, REST APIs, Agile
+
+EXPERIENCE
+Software Engineer, HealthBridge (2024 - Present)
+- Built an internal admin portal using Microservices, System Design, Kafka
+- Implemented a reporting pipeline using Kafka, SQL
+- Refactored the checkout flow using Spring Boot, MySQL, REST APIs, reducing page load time by 58%
+- Refactored a reporting pipeline using Spring Boot, REST APIs, Kafka
+
+Java Developer, Medisync (2022 - 2024)
+- Led development of a reporting pipeline using Spring Boot, Kafka, Kubernetes
+- Led development of the search API using Microservices, Spring Boot
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

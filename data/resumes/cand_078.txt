@@ -1,0 +1,31 @@
+Name: Karthik Rao
+Email: karthik.rao@example.com
+Title: Lead Data Scientist
+Location: Singapore
+Total Experience: 10 years
+
+SUMMARY
+Lead Data Scientist with 10 years of experience working with Python, Machine Learning, Pandas, TensorFlow. Enjoys solving performance and scale problems.
+
+SKILLS
+Python, Machine Learning, Pandas, TensorFlow, LLMs, PyTorch
+
+EXPERIENCE
+Lead Data Scientist, Wonka Analytics (2022 - Present)
+- Migrated an analytics platform using Machine Learning, LLMs, Python
+- Shipped the payments service using Pandas
+- Collaborated with product and design in an Agile team
+
+Senior Data Scientist, Zoho-like Co (2019 - 2022)
+- Maintained a customer-facing dashboard using Python
+- Architected an analytics platform using Machine Learning, Python
+
+Data Scientist, Umbrella Labs (2016 - 2019)
+- Migrated a customer-facing dashboard using LLMs, Python, Machine Learning
+- Architected a customer-facing dashboard using LLMs
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

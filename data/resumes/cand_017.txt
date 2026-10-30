@@ -1,0 +1,21 @@
+Name: Mia Chen
+Email: mia.chen@example.com
+Title: Frontend Developer
+Location: San Francisco
+Total Experience: 1 years
+
+SUMMARY
+Frontend Developer with 1 year of experience working with React, JavaScript, HTML/CSS, TypeScript. Focused on shipping user-centric products.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Figma, Next.js, Jest, Cypress, Agile
+
+EXPERIENCE
+Frontend Developer, ShopSphere (2025 - Present)
+- Built a design-system component library using Cypress, React
+- Architected the payments service using JavaScript, Cypress, Next.js
+- Led development of the checkout flow using HTML/CSS, JavaScript
+- Architected the search API using Jest, Figma
+
+EDUCATION
+B.E. Information Technology, VIT

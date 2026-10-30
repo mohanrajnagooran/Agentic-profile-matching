@@ -1,0 +1,34 @@
+Name: Emma Wilson
+Email: emma.wilson@example.com
+Title: Mobile Lead
+Location: Chennai
+Total Experience: 12 years
+
+SUMMARY
+Mobile Lead with 12 years of experience working with React Native, JavaScript, iOS, Swift. Focused on shipping user-centric products.
+
+SKILLS
+React Native, JavaScript, iOS, Swift, Redux
+
+EXPERIENCE
+Mobile Lead, Oscorp (2023 - Present)
+- Implemented a multi-tenant SaaS platform using Swift, React Native
+- Implemented the onboarding experience using iOS, Swift, cutting infrastructure cost by 21%
+- Ran code reviews and set engineering standards
+
+Senior Mobile Engineer, Tyrell Software (2020 - 2023)
+- Led development of a reporting pipeline using iOS, React Native
+- Refactored a customer-facing dashboard using React Native, iOS
+- Migrated the search API using iOS
+
+Mobile Engineer, Oscorp (2016 - 2020)
+- Designed a real-time notifications system using JavaScript, React Native
+- Shipped a customer-facing dashboard using JavaScript, React Native
+- Architected an analytics platform using JavaScript
+
+Mobile Developer, LogiTrack (2014 - 2016)
+- Shipped a multi-tenant SaaS platform using React Native
+- Built the mobile companion app using React Native, Swift
+
+EDUCATION
+B.A. Economics, University of Mumbai

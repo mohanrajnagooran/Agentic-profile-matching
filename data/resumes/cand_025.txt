@@ -1,0 +1,19 @@
+Name: Nina Thomas
+Email: nina.thomas@example.com
+Title: Software Engineer
+Location: London
+Total Experience: 2 years
+
+SUMMARY
+Software Engineer with 2 years of experience working with Java, Spring Boot, Microservices, Kafka. Comfortable owning features end to end.
+
+SKILLS
+Java, Spring Boot, Microservices, Kafka, System Design, REST APIs, MySQL, Docker
+
+EXPERIENCE
+Software Engineer, Wonka Analytics (2024 - Present)
+- Maintained the checkout flow using Java, Kafka, REST APIs
+- Shipped the checkout flow using Docker, Spring Boot
+
+EDUCATION
+B.Tech Electronics, NIT Trichy

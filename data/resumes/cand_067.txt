@@ -1,0 +1,20 @@
+Name: Kenji Kim
+Email: kenji.kim@example.com
+Title: Frontend Engineer
+Location: Mumbai
+Total Experience: 2 years
+
+SUMMARY
+Frontend Engineer with 2 years of experience working with React, JavaScript, HTML/CSS, TypeScript. Enjoys solving performance and scale problems.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Vue, Node.js, GraphQL
+
+EXPERIENCE
+Frontend Engineer, Pied Piper (2024 - Present)
+- Architected the mobile companion app using Vue, GraphQL, lowering p95 latency by 52%
+- Maintained a real-time notifications system using HTML/CSS, TypeScript
+- Migrated an internal admin portal using HTML/CSS, GraphQL, TypeScript
+
+EDUCATION
+B.S. Computer Science, University of Texas

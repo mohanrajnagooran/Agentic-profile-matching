@@ -1,0 +1,36 @@
+Name: Priya Lopez
+Email: priya.lopez@example.com
+Title: Senior Frontend Engineer
+Location: Chennai
+Total Experience: 8 years
+
+SUMMARY
+Senior Frontend Engineer with 8 years of experience working with React, TypeScript, Node.js, Figma. Enjoys solving performance and scale problems.
+
+SKILLS
+React, TypeScript, Node.js, Figma, Vue, GraphQL, Tailwind, Jest
+
+EXPERIENCE
+Senior Frontend Engineer, Tyrell Software (2024 - Present)
+- Architected a customer-facing dashboard using GraphQL, Jest, React, cutting infrastructure cost by 55%
+- Refactored a real-time notifications system using Tailwind, improving conversion by 34%
+- Migrated a real-time notifications system using Figma, Tailwind, reducing page load time by 17%
+- Implemented a design-system component library using Tailwind, serving 20M monthly users
+- Mentored 4 junior engineers
+
+Frontend Engineer, Oscorp (2021 - 2024)
+- Shipped a design-system component library using GraphQL, Jest, React, serving 14M monthly users
+- Led development of a real-time notifications system using React, Node.js, GraphQL, serving 17M monthly users
+- Designed a customer-facing dashboard using Jest
+
+Frontend Developer, Umbrella Labs (2020 - 2021)
+- Migrated a multi-tenant SaaS platform using GraphQL, Vue, Jest, serving 18M monthly users
+- Led development of the checkout flow using Jest, Vue, serving 16M monthly users
+
+Frontend Developer, Stark Digital (2018 - 2020)
+- Optimized a multi-tenant SaaS platform using React, improving conversion by 48%
+- Maintained an analytics platform using GraphQL, Tailwind, Figma, reducing incident rate by 13%
+- Optimized a design-system component library using TypeScript, lowering p95 latency by 20%
+
+EDUCATION
+B.A. Economics, University of Mumbai

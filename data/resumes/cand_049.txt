@@ -1,0 +1,25 @@
+Name: Hiroshi Iyer
+Email: hiroshi.iyer@example.com
+Title: Senior Software Engineer
+Location: Mumbai
+Total Experience: 6 years
+
+SUMMARY
+Senior Software Engineer with 6 years of experience working with Spring Boot, SQL, Microservices, Docker. Comfortable owning features end to end.
+
+SKILLS
+Spring Boot, SQL, Microservices, Docker, AWS, System Design, Kafka, Agile
+
+EXPERIENCE
+Senior Software Engineer, EduNova (2024 - Present)
+- Shipped the search API using Docker, AWS, Spring Boot
+- Designed the onboarding experience using Docker, Agile, Microservices, lowering p95 latency by 14%
+- Architected an internal admin portal using SQL, Kafka, cutting infrastructure cost by 25%
+- Partnered with stakeholders to define the roadmap
+
+Software Engineer, Umbrella Labs (2020 - 2024)
+- Maintained a design-system component library using System Design, AWS, Docker, reducing page load time by 62%
+- Led development of a multi-tenant SaaS platform using Microservices, Agile, Kafka, reducing incident rate by 49%
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

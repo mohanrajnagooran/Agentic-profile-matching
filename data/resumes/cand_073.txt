@@ -1,0 +1,23 @@
+Name: Priya Wilson
+Email: priya.wilson@example.com
+Title: Backend Engineer
+Location: Berlin
+Total Experience: 3 years
+
+SUMMARY
+Backend Engineer with 3 years of experience working with Python, Django, PostgreSQL, REST APIs. Passionate about clean, maintainable code.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Microservices, Redis, Kafka, Celery, FastAPI, Agile
+
+EXPERIENCE
+Backend Engineer, Zoho-like Co (2025 - Present)
+- Built the payments service using Python, Celery, improving conversion by 54%
+- Migrated the mobile companion app using Django, Python, improving conversion by 26%
+
+Python Developer, Zoho-like Co (2023 - 2025)
+- Maintained the checkout flow using Redis, FastAPI, Django, serving 13M monthly users
+- Optimized a reporting pipeline using Django, lowering p95 latency by 31%
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

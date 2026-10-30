@@ -1,0 +1,25 @@
+Name: Ravi Lopez
+Email: ravi.lopez@example.com
+Title: Data Scientist
+Location: Hyderabad
+Total Experience: 3 years
+
+SUMMARY
+Data Scientist with 3 years of experience working with Python, Machine Learning, Pandas, Airflow. Comfortable owning features end to end.
+
+SKILLS
+Python, Machine Learning, Pandas, Airflow, NLP, scikit-learn, Tableau, PyTorch
+
+EXPERIENCE
+Data Scientist, Medisync (2024 - Present)
+- Maintained a multi-tenant SaaS platform using scikit-learn, PyTorch, Machine Learning
+- Optimized a reporting pipeline using scikit-learn, NLP, improving conversion by 60%
+
+Data Analyst, Tyrell Software (2023 - 2024)
+- Built the checkout flow using PyTorch, NLP, Airflow, reducing incident rate by 13%
+- Implemented a real-time notifications system using Airflow, PyTorch, serving 9M monthly users
+- Architected a reporting pipeline using Airflow, NLP
+- Implemented the checkout flow using PyTorch, Airflow, serving 19M monthly users
+
+EDUCATION
+B.E. Information Technology, VIT

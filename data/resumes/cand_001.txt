@@ -1,0 +1,27 @@
+Name: John Smith
+Email: john.smith@example.com
+Title: Senior Frontend Engineer
+Location: Chennai
+Total Experience: 7 years
+
+SUMMARY
+Senior Frontend Engineer with 7 years of experience building React and TypeScript applications at scale. Strong in performance tuning and design systems.
+
+SKILLS
+React, TypeScript, JavaScript, Redux, Next.js, Node.js, REST APIs, Jest, GraphQL, HTML/CSS, Agile
+
+EXPERIENCE
+Senior Frontend Engineer, ShopSphere (2022 - Present)
+- Led development of the checkout flow using React, TypeScript and Next.js, improving conversion by 18%
+- Built a GraphQL gateway and REST APIs in Node.js serving 6M monthly users
+- Mentored 4 junior engineers and ran code reviews
+
+Frontend Engineer, Globex (2019 - 2022)
+- Built a design-system component library using React, Redux and Jest, reducing page load time by 35%
+- Implemented the onboarding experience using TypeScript and React
+
+Frontend Developer, Initech (2019 - 2019)
+- Maintained an internal admin portal using JavaScript and HTML/CSS
+
+EDUCATION
+B.Tech Computer Science, Anna University

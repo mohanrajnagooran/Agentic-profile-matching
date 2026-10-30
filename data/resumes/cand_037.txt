@@ -1,0 +1,35 @@
+Name: Ben Moore
+Email: ben.moore@example.com
+Title: Senior .NET Engineer
+Location: Remote
+Total Experience: 8 years
+
+SUMMARY
+Senior .NET Engineer with 8 years of experience working with C#, .NET, SQL, Azure. Focused on shipping user-centric products.
+
+SKILLS
+C#, .NET, SQL, Azure, Microservices, Angular
+
+EXPERIENCE
+Senior .NET Engineer, FinEdge (2023 - Present)
+- Refactored an analytics platform using SQL, Angular
+- Optimized the checkout flow using .NET, Azure, lowering p95 latency by 56%
+- Migrated the onboarding experience using SQL, Azure
+- Collaborated with product and design in an Agile team
+
+Software Engineer, EduNova (2020 - 2023)
+- Architected an internal admin portal using Angular, Azure, lowering p95 latency by 31%
+- Designed a design-system component library using Azure, Angular, reducing incident rate by 42%
+- Maintained a multi-tenant SaaS platform using Angular, Azure
+- Implemented the mobile companion app using Angular
+
+.NET Developer, Pied Piper (2018 - 2020)
+- Migrated a real-time notifications system using C#, Azure, Microservices
+- Shipped a design-system component library using Microservices, Azure
+- Architected the payments service using Microservices, C#
+
+EDUCATION
+-
+
+CERTIFICATIONS
+Microsoft Azure Developer Associate

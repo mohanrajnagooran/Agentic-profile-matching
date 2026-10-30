@@ -1,0 +1,21 @@
+Name: Zara Kumar
+Email: zara.kumar@example.com
+Title: Frontend Developer
+Location: Chennai
+Total Experience: 1 years
+
+SUMMARY
+Frontend Developer with 1 year of experience working with React, JavaScript, HTML/CSS, TypeScript. Comfortable owning features end to end.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Redux, Node.js, Cypress, GraphQL, Agile
+
+EXPERIENCE
+Frontend Developer, LogiTrack (2025 - Present)
+- Led development of the payments service using React, Cypress
+- Refactored the search API using TypeScript, Agile
+- Designed a reporting pipeline using Redux, Cypress
+- Designed the mobile companion app using TypeScript, Agile, HTML/CSS
+
+EDUCATION
+MBA, IIM Bangalore

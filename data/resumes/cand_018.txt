@@ -1,0 +1,25 @@
+Name: Lucas Singh
+Email: lucas.singh@example.com
+Title: Senior Backend Engineer
+Location: Remote
+Total Experience: 5 years
+
+SUMMARY
+Senior Backend Engineer with 5 years of experience working with Python, Django, PostgreSQL, REST APIs. Comfortable owning features end to end.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Docker, Kafka, Flask
+
+EXPERIENCE
+Senior Backend Engineer, ShopSphere (2023 - Present)
+- Maintained a customer-facing dashboard using Flask, Django, reducing incident rate by 47%
+- Optimized the mobile companion app using REST APIs, improving conversion by 58%
+
+Backend Engineer, Initech (2021 - 2023)
+- Maintained a reporting pipeline using Django
+- Shipped the search API using Kafka, Docker, reducing incident rate by 51%
+- Migrated an analytics platform using Docker, Kafka, serving 12M monthly users
+- Designed an internal admin portal using Kafka, Django, lowering p95 latency by 52%
+
+EDUCATION
+MBA, IIM Bangalore

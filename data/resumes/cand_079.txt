@@ -1,0 +1,24 @@
+Name: Karthik Brown
+Email: karthik.brown@example.com
+Title: Mobile Engineer
+Location: Bengaluru
+Total Experience: 3 years
+
+SUMMARY
+Mobile Engineer with 3 years of experience working with React Native, JavaScript, TypeScript, iOS. Passionate about clean, maintainable code.
+
+SKILLS
+React Native, JavaScript, TypeScript, iOS, Kotlin, React, Redux, Jest, Android, Agile
+
+EXPERIENCE
+Mobile Engineer, HealthBridge (2025 - Present)
+- Refactored a real-time notifications system using TypeScript, Kotlin, cutting infrastructure cost by 16%
+- Built an internal admin portal using Android, Jest, reducing page load time by 42%
+- Shipped the onboarding experience using JavaScript, cutting infrastructure cost by 57%
+
+Mobile Developer, Stark Digital (2023 - 2025)
+- Architected the payments service using JavaScript, React, Jest
+- Led development of a multi-tenant SaaS platform using TypeScript, React, JavaScript, serving 13M monthly users
+
+EDUCATION
+B.Sc Mathematics, Delhi University

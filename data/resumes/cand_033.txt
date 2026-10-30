@@ -1,0 +1,33 @@
+Name: Omar Moore
+Email: omar.moore@example.com
+Title: Senior Backend Engineer
+Location: Chennai
+Total Experience: 6 years
+
+SUMMARY
+Senior Backend Engineer with 6 years of experience working with Python, Django, PostgreSQL, REST APIs. Focused on shipping user-centric products.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Redis, Microservices, Flask, Celery, Agile
+
+EXPERIENCE
+Senior Backend Engineer, Nakatomi Cloud (2023 - Present)
+- Implemented the checkout flow using Agile, PostgreSQL, REST APIs, cutting infrastructure cost by 33%
+- Built the checkout flow using Django, REST APIs
+- Implemented a multi-tenant SaaS platform using Django, lowering p95 latency by 54%
+- Built a real-time notifications system using Microservices, Redis, cutting infrastructure cost by 59%
+
+Backend Engineer, Medisync (2021 - 2023)
+- Optimized the search API using Redis, Celery, improving conversion by 41%
+- Optimized the onboarding experience using Redis, REST APIs, Celery
+- Built the checkout flow using Celery, REST APIs, reducing incident rate by 49%
+
+Python Developer, Acme Corp (2020 - 2021)
+- Architected a design-system component library using Celery, REST APIs, cutting infrastructure cost by 58%
+- Maintained a customer-facing dashboard using REST APIs, Celery, Microservices, reducing page load time by 64%
+
+EDUCATION
+M.S. Computer Science, Georgia Tech
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

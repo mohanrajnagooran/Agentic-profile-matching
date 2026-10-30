@@ -1,0 +1,21 @@
+Name: Lakshmi Nguyen
+Email: lakshmi.nguyen@example.com
+Title: .NET Developer
+Location: Hyderabad
+Total Experience: 0 years
+
+SUMMARY
+.NET Developer with 0 years of experience working with C#, .NET, SQL, Microservices. Enjoys solving performance and scale problems.
+
+SKILLS
+C#, .NET, SQL, Microservices
+
+EXPERIENCE
+.NET Developer, Stark Digital (2025 - Present)
+- Migrated the payments service using Microservices, C#, SQL
+- Optimized the onboarding experience using .NET, SQL, reducing incident rate by 52%
+- Designed the onboarding experience using .NET, C#, SQL, reducing page load time by 41%
+- Built an analytics platform using .NET, C#, cutting infrastructure cost by 56%
+
+EDUCATION
+Coding Bootcamp, General Assembly

@@ -1,0 +1,33 @@
+Name: Hannah White
+Email: hannah.white@example.com
+Title: Senior DevOps Engineer
+Location: San Francisco
+Total Experience: 8 years
+
+SUMMARY
+Senior DevOps Engineer with 8 years of experience working with Docker, Kubernetes, AWS, Terraform. Enjoys solving performance and scale problems.
+
+SKILLS
+Docker, Kubernetes, AWS, Terraform, GCP, Python, CI/CD
+
+EXPERIENCE
+Senior DevOps Engineer, Pied Piper (2023 - Present)
+- Architected a design-system component library using CI/CD, Terraform
+- Migrated an analytics platform using GCP, Python
+- Partnered with stakeholders to define the roadmap
+
+Site Reliability Engineer, Massive Dynamic (2021 - 2023)
+- Shipped the checkout flow using Terraform, Python, GCP
+- Optimized a customer-facing dashboard using GCP, Terraform, Python
+- Optimized a reporting pipeline using Python, lowering p95 latency by 49%
+- Shipped a reporting pipeline using Terraform, Python
+
+DevOps Engineer, EduNova (2018 - 2021)
+- Migrated the payments service using Kubernetes
+- Built a design-system component library using CI/CD
+
+EDUCATION
+MBA, IIM Bangalore
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

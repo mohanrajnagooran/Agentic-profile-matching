@@ -1,0 +1,24 @@
+Name: Sofia Jackson
+Email: sofia.jackson@example.com
+Title: Lead Full Stack Engineer
+Location: Bengaluru
+Total Experience: 10 years
+
+SUMMARY
+Lead Full Stack Engineer with 10 years of experience working with React, TypeScript, Node.js, REST APIs. Enjoys solving performance and scale problems.
+
+SKILLS
+React, TypeScript, Node.js, REST APIs, Jest, Docker, Express
+
+EXPERIENCE
+Lead Full Stack Engineer, ShopSphere (2021 - Present)
+- Architected a real-time notifications system using Jest, Node.js, Express
+- Architected the checkout flow using Node.js, Docker
+
+Senior Full Stack Engineer, Hooli (2016 - 2021)
+- Maintained the onboarding experience using REST APIs, React
+- Refactored a real-time notifications system using TypeScript
+- Implemented the search API using REST APIs, lowering p95 latency by 43%
+
+EDUCATION
+B.A. Economics, University of Mumbai

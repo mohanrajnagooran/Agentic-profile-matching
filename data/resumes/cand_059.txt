@@ -1,0 +1,22 @@
+Name: Nikhil Silva
+Email: nikhil.silva@example.com
+Title: Java Developer
+Location: Pune
+Total Experience: 1 years
+
+SUMMARY
+Java Developer with 1 year of experience working with Java, Spring Boot, SQL, Microservices. Enjoys solving performance and scale problems.
+
+SKILLS
+Java, Spring Boot, SQL, Microservices, Kafka, Docker, Kubernetes, MySQL, AWS
+
+EXPERIENCE
+Java Developer, Acme Corp (2025 - Present)
+- Led development of the checkout flow using Kubernetes, Kafka
+- Designed a customer-facing dashboard using Java, SQL
+
+EDUCATION
+Coding Bootcamp, General Assembly
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

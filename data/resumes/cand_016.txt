@@ -1,0 +1,32 @@
+Name: Aditya Ito
+Email: aditya.ito@example.com
+Title: Senior .NET Engineer
+Location: Toronto
+Total Experience: 5 years
+
+SUMMARY
+Senior .NET Engineer with 5 years of experience working with C#, .NET, SQL, Angular. Focused on shipping user-centric products.
+
+SKILLS
+C#, .NET, SQL, Angular
+
+EXPERIENCE
+Senior .NET Engineer, Nakatomi Cloud (2023 - Present)
+- Architected a reporting pipeline using C#, .NET, Angular
+- Optimized the payments service using Angular, SQL
+- Refactored a real-time notifications system using C#, SQL, .NET
+- Designed an internal admin portal using SQL, Angular, .NET
+- Mentored 4 junior engineers
+
+Software Engineer, LogiTrack (2021 - 2022)
+- Designed a design-system component library using Angular, .NET
+- Implemented a design-system component library using Angular, .NET
+- Optimized the search API using .NET, Angular
+
+.NET Developer, EduNova (2020 - 2021)
+- Optimized a real-time notifications system using .NET, C#, cutting infrastructure cost by 62%
+- Optimized an internal admin portal using .NET, C#, reducing incident rate by 12%
+- Led development of the payments service using .NET, C#
+
+EDUCATION
+B.Sc Mathematics, Delhi University

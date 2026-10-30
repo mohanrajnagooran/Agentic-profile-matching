@@ -1,0 +1,27 @@
+Name: Aiko Menon
+Email: aiko.menon@example.com
+Title: Staff Frontend Engineer
+Location: Austin
+Total Experience: 12 years
+
+SUMMARY
+Staff Frontend Engineer with 12 years of experience working with React, JavaScript, TypeScript, GraphQL. Passionate about clean, maintainable code.
+
+SKILLS
+React, JavaScript, TypeScript, GraphQL, Agile
+
+EXPERIENCE
+Staff Frontend Engineer, Initech (2019 - Present)
+- Implemented a reporting pipeline using GraphQL, React, JavaScript, reducing incident rate by 17%
+- Implemented the mobile companion app using React, lowering p95 latency by 61%
+- Shipped the mobile companion app using React, JavaScript, TypeScript
+
+Senior Frontend Engineer, Vandelay Industries (2014 - 2019)
+- Migrated the search API using GraphQL, reducing page load time by 48%
+- Shipped the onboarding experience using TypeScript, GraphQL
+
+EDUCATION
+Coding Bootcamp, General Assembly
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

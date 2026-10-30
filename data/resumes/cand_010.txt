@@ -1,0 +1,26 @@
+Name: Priya Khan
+Email: priya.khan@example.com
+Title: Senior Full Stack Engineer
+Location: San Francisco
+Total Experience: 5 years
+
+SUMMARY
+Senior Full Stack Engineer with 5 years of experience working with React, Node.js, REST APIs, CI/CD. Enjoys solving performance and scale problems.
+
+SKILLS
+React, Node.js, REST APIs, CI/CD, Docker, GraphQL, PostgreSQL, Redux
+
+EXPERIENCE
+Senior Full Stack Engineer, Wonka Analytics (2024 - Present)
+- Built the onboarding experience using GraphQL, improving conversion by 18%
+- Maintained the mobile companion app using REST APIs, CI/CD, Node.js
+- Refactored the checkout flow using Redux, CI/CD, GraphQL, serving 3M monthly users
+- Partnered with stakeholders to define the roadmap
+
+Full Stack Engineer, Pied Piper (2021 - 2024)
+- Refactored an analytics platform using CI/CD, Node.js, serving 1M monthly users
+- Shipped a design-system component library using GraphQL, React, reducing incident rate by 60%
+- Migrated a real-time notifications system using REST APIs, GraphQL, Node.js, improving conversion by 56%
+
+EDUCATION
+Coding Bootcamp, General Assembly

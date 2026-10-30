@@ -1,0 +1,52 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	parse_jd(parse_jd)
+	extract_requirements(extract_requirements)
+	search_resumes(search_resumes)
+	rank_candidates(rank_candidates)
+	generate_report(generate_report)
+	human_feedback(human_feedback)
+	refine_requirements(refine_requirements)
+	compare_node(compare_node)
+	explain_node(explain_node)
+	interview_node(interview_node)
+	candidate_report_node(candidate_report_node)
+	screening_node(screening_node)
+	status_node(status_node)
+	tool_agent(tool_agent)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> parse_jd;
+	candidate_report_node --> human_feedback;
+	compare_node --> human_feedback;
+	explain_node --> human_feedback;
+	extract_requirements --> search_resumes;
+	generate_report --> human_feedback;
+	human_feedback -.-> __end__;
+	human_feedback -.-> candidate_report_node;
+	human_feedback -.-> compare_node;
+	human_feedback -.-> explain_node;
+	human_feedback -.-> extract_requirements;
+	human_feedback -.-> interview_node;
+	human_feedback -.-> refine_requirements;
+	human_feedback -.-> screening_node;
+	human_feedback -.-> search_resumes;
+	human_feedback -.-> status_node;
+	human_feedback -.-> tool_agent;
+	interview_node --> human_feedback;
+	parse_jd --> extract_requirements;
+	rank_candidates --> generate_report;
+	refine_requirements -.-> human_feedback;
+	refine_requirements -.-> search_resumes;
+	screening_node --> human_feedback;
+	search_resumes --> rank_candidates;
+	status_node --> human_feedback;
+	tool_agent --> human_feedback;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc
+

@@ -1,0 +1,37 @@
+Name: Aditya Pillai
+Email: aditya.pillai@example.com
+Title: Principal Engineer
+Location: Bengaluru
+Total Experience: 10 years
+
+SUMMARY
+Principal Engineer with 10 years of experience working with Python, Django, PostgreSQL, REST APIs. Comfortable owning features end to end.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Celery, FastAPI, Redis, AWS, Kafka
+
+EXPERIENCE
+Principal Engineer, Initech (2023 - Present)
+- Optimized the checkout flow using Redis, Celery, serving 4M monthly users
+- Refactored a real-time notifications system using AWS, REST APIs, FastAPI, reducing incident rate by 33%
+- Mentored 2 junior engineers
+
+Senior Backend Engineer, Tyrell Software (2020 - 2022)
+- Refactored the payments service using AWS, Django, reducing page load time by 50%
+- Designed the payments service using Django, reducing incident rate by 20%
+- Migrated the checkout flow using AWS, Django, improving conversion by 54%
+- Migrated an internal admin portal using FastAPI, Django, reducing page load time by 29%
+
+Backend Engineer, Globex (2017 - 2020)
+- Architected the payments service using Python, Celery
+- Architected an analytics platform using PostgreSQL, REST APIs, Celery, serving 2M monthly users
+- Architected an internal admin portal using Python, Celery, lowering p95 latency by 52%
+
+Python Developer, Pied Piper (2015 - 2017)
+- Designed the search API using Python, Redis, Celery, cutting infrastructure cost by 12%
+- Optimized the mobile companion app using FastAPI, Celery, Redis, serving 2M monthly users
+- Maintained a reporting pipeline using Celery, reducing page load time by 65%
+- Maintained a customer-facing dashboard using Redis, FastAPI, improving conversion by 54%
+
+EDUCATION
+B.A. Economics, University of Mumbai

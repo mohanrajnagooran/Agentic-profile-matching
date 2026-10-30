@@ -1,0 +1,25 @@
+Name: Noah Wilson
+Email: noah.wilson@example.com
+Title: Principal Engineer
+Location: Mumbai
+Total Experience: 12 years
+
+SUMMARY
+Principal Engineer with 12 years of experience working with Python, PostgreSQL, REST APIs, Docker. Enjoys solving performance and scale problems.
+
+SKILLS
+Python, PostgreSQL, REST APIs, Docker
+
+EXPERIENCE
+Principal Engineer, Acme Corp (2020 - Present)
+- Implemented an analytics platform using Python, REST APIs, PostgreSQL, reducing page load time by 17%
+- Optimized the payments service using Docker, PostgreSQL, reducing page load time by 12%
+- Designed an internal admin portal using Python, Docker, improving conversion by 40%
+- Partnered with stakeholders to define the roadmap
+
+Senior Backend Engineer, Soylent Tech (2013 - 2019)
+- Refactored the search API using REST APIs, PostgreSQL, cutting infrastructure cost by 55%
+- Architected an internal admin portal using PostgreSQL, REST APIs, reducing page load time by 22%
+
+EDUCATION
+B.E. Information Technology, VIT

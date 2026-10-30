@@ -1,0 +1,26 @@
+Name: Zara Ito
+Email: zara.ito@example.com
+Title: Frontend Engineer
+Location: Singapore
+Total Experience: 3 years
+
+SUMMARY
+Frontend Engineer with 3 years of experience working with React, JavaScript, HTML/CSS, TypeScript. Passionate about clean, maintainable code.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Figma, Next.js, Tailwind, Redux
+
+EXPERIENCE
+Frontend Engineer, Soylent Tech (2024 - Present)
+- Led development of a reporting pipeline using HTML/CSS, Figma
+- Led development of an internal admin portal using TypeScript, Tailwind, Redux
+- Refactored a real-time notifications system using Tailwind, React, Next.js
+- Implemented a real-time notifications system using Tailwind, React, Next.js
+
+Frontend Developer, EduNova (2023 - 2024)
+- Architected the search API using JavaScript, React, Tailwind
+- Refactored the onboarding experience using Redux, Tailwind
+- Refactored an internal admin portal using React, Tailwind
+
+EDUCATION
+PhD Computer Science, Stanford University

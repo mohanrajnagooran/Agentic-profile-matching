@@ -1,0 +1,33 @@
+Name: Nikhil Jackson
+Email: nikhil.jackson@example.com
+Title: Principal Engineer
+Location: Mumbai
+Total Experience: 11 years
+
+SUMMARY
+Principal Engineer with 11 years of experience working with Python, Django, PostgreSQL, REST APIs. Passionate about clean, maintainable code.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Celery, Flask, System Design, FastAPI, Redis, Agile
+
+EXPERIENCE
+Principal Engineer, EduNova (2021 - Present)
+- Shipped a customer-facing dashboard using Agile, Python
+- Maintained a multi-tenant SaaS platform using Flask, cutting infrastructure cost by 32%
+- Collaborated with product and design in an Agile team
+
+Senior Backend Engineer, Cyberdyne (2018 - 2021)
+- Designed a design-system component library using Redis, Django, reducing incident rate by 59%
+- Maintained the onboarding experience using Agile, FastAPI, lowering p95 latency by 20%
+- Refactored a real-time notifications system using FastAPI, REST APIs, reducing incident rate by 51%
+
+Backend Engineer, Hooli (2015 - 2018)
+- Optimized a multi-tenant SaaS platform using Flask, Django, lowering p95 latency by 13%
+- Refactored an internal admin portal using Redis, Python, improving conversion by 14%
+- Designed an analytics platform using Flask, System Design, reducing page load time by 27%
+
+EDUCATION
+B.Tech Computer Science, Anna University
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

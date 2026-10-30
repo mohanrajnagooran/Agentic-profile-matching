@@ -1,0 +1,36 @@
+Name: Kavya Patel
+Email: kavya.patel@example.com
+Title: Staff Frontend Engineer
+Location: Mumbai
+Total Experience: 11 years
+
+SUMMARY
+Staff Frontend Engineer with 11 years of experience working with React, JavaScript, HTML/CSS, TypeScript. Focused on shipping user-centric products.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Node.js, Tailwind, Redux, Cypress, Agile
+
+EXPERIENCE
+Staff Frontend Engineer, Wonka Analytics (2024 - Present)
+- Shipped the mobile companion app using React, JavaScript
+- Optimized a real-time notifications system using Node.js, TypeScript
+- Collaborated with product and design in an Agile team
+
+Senior Frontend Engineer, Wayne Systems (2020 - 2024)
+- Designed a real-time notifications system using Cypress, JavaScript
+- Refactored the mobile companion app using JavaScript, React
+- Led development of the checkout flow using React, Cypress
+- Maintained an internal admin portal using React, serving 20M monthly users
+
+Frontend Engineer, Hooli (2018 - 2020)
+- Optimized an internal admin portal using Node.js, Tailwind
+- Maintained an analytics platform using Cypress, React
+- Designed an analytics platform using Node.js
+- Refactored the search API using HTML/CSS
+
+Frontend Developer, Acme Corp (2015 - 2018)
+- Maintained the onboarding experience using React
+- Led development of the onboarding experience using Tailwind, HTML/CSS
+
+EDUCATION
+MBA, IIM Bangalore

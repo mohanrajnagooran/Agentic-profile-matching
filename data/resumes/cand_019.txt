@@ -1,0 +1,34 @@
+Name: Grace Pillai
+Email: grace.pillai@example.com
+Title: Senior Full Stack Engineer
+Location: Austin
+Total Experience: 5 years
+
+SUMMARY
+Senior Full Stack Engineer with 5 years of experience working with React, TypeScript, Node.js, JavaScript. Enjoys solving performance and scale problems.
+
+SKILLS
+React, TypeScript, Node.js, JavaScript, REST APIs, Express, GraphQL, PostgreSQL, Jest, MongoDB, Agile
+
+EXPERIENCE
+Senior Full Stack Engineer, Tyrell Software (2025 - Present)
+- Maintained the mobile companion app using TypeScript, REST APIs, PostgreSQL, serving 8M monthly users
+- Implemented the checkout flow using React, cutting infrastructure cost by 61%
+- Built a design-system component library using Express, TypeScript
+- Maintained an analytics platform using Node.js, GraphQL
+- Ran code reviews and set engineering standards
+
+Full Stack Engineer, Umbrella Labs (2024 - 2025)
+- Built a reporting pipeline using TypeScript, Express
+- Designed a real-time notifications system using GraphQL, TypeScript, Express, improving conversion by 49%
+- Implemented a reporting pipeline using GraphQL, Jest, Express, cutting infrastructure cost by 16%
+- Led development of a real-time notifications system using GraphQL, Express
+
+Full Stack Developer, Nakatomi Cloud (2021 - 2024)
+- Optimized an internal admin portal using GraphQL, TypeScript, Agile, improving conversion by 16%
+- Optimized the search API using TypeScript, MongoDB, reducing page load time by 31%
+- Migrated the payments service using TypeScript, lowering p95 latency by 17%
+- Refactored the mobile companion app using Agile, MongoDB, Node.js, cutting infrastructure cost by 32%
+
+EDUCATION
+-

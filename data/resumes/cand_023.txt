@@ -1,0 +1,35 @@
+Name: Grace Anderson
+Email: grace.anderson@example.com
+Title: Senior Frontend Engineer
+Location: Remote
+Total Experience: 6 years
+
+SUMMARY
+Senior Frontend Engineer with 6 years of experience working with JavaScript, HTML/CSS, TypeScript, Cypress. Focused on shipping user-centric products.
+
+SKILLS
+JavaScript, HTML/CSS, TypeScript, Cypress, Figma
+
+EXPERIENCE
+Senior Frontend Engineer, Pied Piper (2025 - Present)
+- Optimized an internal admin portal using Cypress, Figma, HTML/CSS
+- Shipped the payments service using TypeScript, Figma, JavaScript
+- Collaborated with product and design in an Agile team
+
+Frontend Engineer, Massive Dynamic (2024 - 2025)
+- Optimized a multi-tenant SaaS platform using Cypress, Figma, TypeScript
+- Designed the mobile companion app using Figma, TypeScript
+- Built an internal admin portal using Figma, TypeScript
+- Implemented the mobile companion app using TypeScript, Figma, Cypress
+
+Frontend Developer, Wonka Analytics (2021 - 2024)
+- Maintained a reporting pipeline using HTML/CSS
+- Built an analytics platform using HTML/CSS, Cypress
+- Migrated an analytics platform using HTML/CSS, Cypress
+
+Frontend Developer, Pied Piper (2020 - 2021)
+- Optimized the mobile companion app using Cypress, HTML/CSS, JavaScript
+- Maintained the checkout flow using JavaScript
+
+EDUCATION
+B.A. Economics, University of Mumbai

@@ -1,0 +1,21 @@
+Name: Ananya Brown
+Email: ananya.brown@example.com
+Title: Backend Engineer
+Location: Berlin
+Total Experience: 2 years
+
+SUMMARY
+Backend Engineer with 2 years of experience working with Python, Django, PostgreSQL, REST APIs. Passionate about clean, maintainable code.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, System Design, Redis, Docker, FastAPI, Agile
+
+EXPERIENCE
+Backend Engineer, Wayne Systems (2024 - Present)
+- Optimized the mobile companion app using Docker, Django, FastAPI
+- Maintained the mobile companion app using Agile, Redis, Django, reducing incident rate by 23%
+- Maintained an internal admin portal using Django
+- Optimized the search API using Redis, REST APIs, serving 9M monthly users
+
+EDUCATION
+B.S. Computer Science, University of Texas

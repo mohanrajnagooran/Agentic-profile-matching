@@ -1,0 +1,35 @@
+Name: Fatima Jackson
+Email: fatima.jackson@example.com
+Title: Senior Backend Engineer
+Location: Mumbai
+Total Experience: 6 years
+
+SUMMARY
+Senior Backend Engineer with 6 years of experience working with Python, Django, PostgreSQL, REST APIs. Focused on shipping user-centric products.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Kafka, Microservices, Celery, Docker, Agile
+
+EXPERIENCE
+Senior Backend Engineer, Hooli (2024 - Present)
+- Designed the mobile companion app using Celery
+- Led development of an analytics platform using Docker
+- Optimized a customer-facing dashboard using Python
+- Ran code reviews and set engineering standards
+
+Backend Engineer, Tyrell Software (2023 - 2024)
+- Architected the mobile companion app using Kafka, Agile, REST APIs
+- Architected the checkout flow using REST APIs, PostgreSQL
+- Optimized a multi-tenant SaaS platform using PostgreSQL, Python
+- Migrated a real-time notifications system using REST APIs, Django, Python
+
+Python Developer, LogiTrack (2022 - 2023)
+- Refactored an analytics platform using Agile, Microservices, PostgreSQL
+- Optimized a real-time notifications system using Kafka, Agile
+
+Python Developer, FinEdge (2020 - 2022)
+- Led development of the payments service using PostgreSQL, Microservices, Django
+- Implemented an internal admin portal using Celery, PostgreSQL
+
+EDUCATION
+Coding Bootcamp, General Assembly

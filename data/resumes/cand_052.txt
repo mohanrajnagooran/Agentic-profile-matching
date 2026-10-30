@@ -1,0 +1,28 @@
+Name: Arjun Wilson
+Email: arjun.wilson@example.com
+Title: Senior Full Stack Engineer
+Location: Pune
+Total Experience: 7 years
+
+SUMMARY
+Senior Full Stack Engineer with 7 years of experience working with JavaScript, REST APIs, GraphQL, Jest. Focused on shipping user-centric products.
+
+SKILLS
+JavaScript, REST APIs, GraphQL, Jest, Agile
+
+EXPERIENCE
+Senior Full Stack Engineer, Vandelay Industries (2023 - Present)
+- Architected the payments service using REST APIs, Agile, cutting infrastructure cost by 51%
+- Built a customer-facing dashboard using Jest, Agile, REST APIs, reducing incident rate by 24%
+
+Full Stack Engineer, Zoho-like Co (2021 - 2023)
+- Designed the onboarding experience using REST APIs, JavaScript, reducing incident rate by 49%
+- Migrated a design-system component library using REST APIs, lowering p95 latency by 45%
+
+Full Stack Developer, Oscorp (2019 - 2021)
+- Implemented a real-time notifications system using GraphQL, REST APIs, lowering p95 latency by 20%
+- Built the onboarding experience using REST APIs, GraphQL, lowering p95 latency by 28%
+- Designed the mobile companion app using Agile, reducing page load time by 15%
+
+EDUCATION
+M.Tech Software Engineering, IIT Madras

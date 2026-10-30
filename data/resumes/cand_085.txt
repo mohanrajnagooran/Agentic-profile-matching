@@ -1,0 +1,19 @@
+Name: Nina Patel
+Email: nina.patel@example.com
+Title: Frontend Engineer
+Location: Singapore
+Total Experience: 2 years
+
+SUMMARY
+Frontend Engineer with 2 years of experience working with React, JavaScript, HTML/CSS, TypeScript. Passionate about clean, maintainable code.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Vue, Agile
+
+EXPERIENCE
+Frontend Engineer, Stark Digital (2024 - Present)
+- Led development of a real-time notifications system using TypeScript, Agile
+- Shipped a real-time notifications system using Vue, TypeScript
+
+EDUCATION
+B.S. Computer Science, University of Texas

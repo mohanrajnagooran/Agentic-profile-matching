@@ -1,0 +1,34 @@
+Name: Sofia Harris
+Email: sofia.harris@example.com
+Title: Senior .NET Engineer
+Location: Chennai
+Total Experience: 7 years
+
+SUMMARY
+Senior .NET Engineer with 7 years of experience working with C#, SQL, Azure, Microservices. Focused on shipping user-centric products.
+
+SKILLS
+C#, SQL, Azure, Microservices, Docker, Agile
+
+EXPERIENCE
+Senior .NET Engineer, Cyberdyne (2023 - Present)
+- Led development of an internal admin portal using C#, Azure, reducing page load time by 30%
+- Architected a multi-tenant SaaS platform using Agile, Microservices
+- Migrated a real-time notifications system using C#, cutting infrastructure cost by 47%
+- Mentored 4 junior engineers
+
+Software Engineer, EduNova (2022 - 2023)
+- Led development of the checkout flow using C#, Docker, Microservices
+- Led development of the mobile companion app using Docker, Microservices
+
+.NET Developer, Initech (2018 - 2021)
+- Optimized the payments service using Agile, Docker, C#, serving 4M monthly users
+- Optimized the search API using Docker, C#
+- Architected the mobile companion app using SQL, Agile, cutting infrastructure cost by 63%
+
+EDUCATION
+-
+
+CERTIFICATIONS
+Microsoft Azure Developer Associate
+Certified ScrumMaster (CSM)

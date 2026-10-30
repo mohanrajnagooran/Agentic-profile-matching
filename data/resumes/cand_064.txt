@@ -1,0 +1,37 @@
+Name: Yuki Menon
+Email: yuki.menon@example.com
+Title: UI Architect
+Location: London
+Total Experience: 14 years
+
+SUMMARY
+UI Architect with 14 years of experience working with Angular, TypeScript, HTML/CSS, Agile. Focused on shipping user-centric products.
+
+SKILLS
+Angular, TypeScript, HTML/CSS, Agile, Figma
+
+EXPERIENCE
+UI Architect, Wayne Systems (2023 - Present)
+- Built a reporting pipeline using Figma, TypeScript, cutting infrastructure cost by 53%
+- Shipped a reporting pipeline using HTML/CSS
+- Partnered with stakeholders to define the roadmap
+
+Senior UI Engineer, Wonka Analytics (2019 - 2023)
+- Implemented a multi-tenant SaaS platform using HTML/CSS, Angular, cutting infrastructure cost by 41%
+- Maintained the payments service using Angular, HTML/CSS, reducing incident rate by 16%
+- Maintained a multi-tenant SaaS platform using HTML/CSS, serving 15M monthly users
+- Architected the mobile companion app using Angular, HTML/CSS
+
+UI Engineer, Medisync (2015 - 2019)
+- Shipped a reporting pipeline using HTML/CSS, Angular, reducing incident rate by 46%
+- Designed the onboarding experience using HTML/CSS, Angular, lowering p95 latency by 59%
+- Optimized a real-time notifications system using Angular, HTML/CSS, reducing incident rate by 29%
+
+Angular Developer, Nakatomi Cloud (2012 - 2015)
+- Implemented a real-time notifications system using Agile, Angular, reducing incident rate by 34%
+- Architected a multi-tenant SaaS platform using Agile, reducing page load time by 60%
+- Refactored the checkout flow using TypeScript, Angular, Agile
+- Refactored an internal admin portal using TypeScript, Agile, reducing page load time by 45%
+
+EDUCATION
+B.Sc Mathematics, Delhi University

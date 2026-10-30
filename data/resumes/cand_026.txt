@@ -1,0 +1,19 @@
+Name: Meera Menon
+Email: meera.menon@example.com
+Title: Backend Engineer
+Location: London
+Total Experience: 2 years
+
+SUMMARY
+Backend Engineer with 2 years of experience working with Python, Django, PostgreSQL, REST APIs. Comfortable owning features end to end.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Redis, Kafka, Docker, Celery, Agile
+
+EXPERIENCE
+Backend Engineer, Medisync (2024 - Present)
+- Built the checkout flow using PostgreSQL, Django
+- Optimized a multi-tenant SaaS platform using REST APIs, PostgreSQL, Docker
+
+EDUCATION
+B.Tech Electronics, NIT Trichy

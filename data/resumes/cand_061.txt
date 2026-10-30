@@ -1,0 +1,26 @@
+Name: Leila Lopez
+Email: leila.lopez@example.com
+Title: Data Scientist
+Location: London
+Total Experience: 4 years
+
+SUMMARY
+Data Scientist with 4 years of experience working with Machine Learning, Pandas, SQL, TensorFlow. Focused on shipping user-centric products.
+
+SKILLS
+Machine Learning, Pandas, SQL, TensorFlow, Spark, PyTorch, Tableau, scikit-learn
+
+EXPERIENCE
+Data Scientist, Tyrell Software (2023 - Present)
+- Architected a reporting pipeline using SQL, PyTorch, reducing page load time by 26%
+- Built the mobile companion app using PyTorch, Pandas, cutting infrastructure cost by 45%
+
+Data Analyst, Massive Dynamic (2022 - 2023)
+- Maintained a multi-tenant SaaS platform using PyTorch, SQL, cutting infrastructure cost by 36%
+- Shipped a real-time notifications system using PyTorch, reducing incident rate by 37%
+
+EDUCATION
+PhD Computer Science, Stanford University
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

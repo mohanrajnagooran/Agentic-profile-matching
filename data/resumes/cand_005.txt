@@ -1,0 +1,28 @@
+Name: Lucia Clark
+Email: lucia.clark@example.com
+Title: Platform Lead
+Location: Singapore
+Total Experience: 10 years
+
+SUMMARY
+Platform Lead with 10 years of experience working with Docker, Kubernetes, AWS, Terraform. Passionate about clean, maintainable code.
+
+SKILLS
+Docker, Kubernetes, AWS, Terraform, Go, CI/CD
+
+EXPERIENCE
+Platform Lead, Cyberdyne (2022 - Present)
+- Migrated the mobile companion app using CI/CD, reducing incident rate by 50%
+- Built a multi-tenant SaaS platform using Go, CI/CD, serving 1M monthly users
+- Ran code reviews and set engineering standards
+
+Senior DevOps Engineer, Acme Corp (2017 - 2021)
+- Implemented the search API using Terraform, AWS, CI/CD, lowering p95 latency by 56%
+- Designed a real-time notifications system using CI/CD, Terraform, AWS, cutting infrastructure cost by 16%
+
+Site Reliability Engineer, Oscorp (2015 - 2017)
+- Designed a customer-facing dashboard using Kubernetes, serving 17M monthly users
+- Refactored a multi-tenant SaaS platform using Kubernetes, Docker, improving conversion by 27%
+
+EDUCATION
+MBA, IIM Bangalore

@@ -1,0 +1,29 @@
+Name: Kenji Reddy
+Email: kenji.reddy@example.com
+Title: Senior UI Engineer
+Location: Austin
+Total Experience: 5 years
+
+SUMMARY
+Senior UI Engineer with 5 years of experience working with Angular, TypeScript, HTML/CSS, JavaScript. Comfortable owning features end to end.
+
+SKILLS
+Angular, TypeScript, HTML/CSS, JavaScript, Figma, Agile
+
+EXPERIENCE
+Senior UI Engineer, Wonka Analytics (2024 - Present)
+- Designed the onboarding experience using HTML/CSS, TypeScript, serving 13M monthly users
+- Maintained the mobile companion app using Angular, Agile
+- Collaborated with product and design in an Agile team
+
+UI Engineer, Oscorp (2022 - 2024)
+- Led development of a multi-tenant SaaS platform using JavaScript, Figma
+- Designed a real-time notifications system using Figma, JavaScript, lowering p95 latency by 25%
+- Shipped an internal admin portal using Figma, JavaScript
+
+Angular Developer, Nakatomi Cloud (2021 - 2022)
+- Migrated a real-time notifications system using HTML/CSS, TypeScript
+- Designed a customer-facing dashboard using TypeScript, JavaScript
+
+EDUCATION
+MBA, IIM Bangalore

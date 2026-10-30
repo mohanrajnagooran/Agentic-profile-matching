@@ -1,0 +1,27 @@
+Name: Ananya Martinez
+Email: ananya.martinez@example.com
+Title: Senior Full Stack Engineer
+Location: Mumbai
+Total Experience: 5 years
+
+SUMMARY
+Senior Full Stack Engineer with 5 years of experience working with React, TypeScript, Node.js, JavaScript. Enjoys solving performance and scale problems.
+
+SKILLS
+React, TypeScript, Node.js, JavaScript, REST APIs, Redux, CI/CD, AWS, Jest, MongoDB
+
+EXPERIENCE
+Senior Full Stack Engineer, Wonka Analytics (2023 - Present)
+- Refactored a customer-facing dashboard using Redux, AWS, serving 16M monthly users
+- Shipped the mobile companion app using Jest, MongoDB, AWS, improving conversion by 38%
+- Built a real-time notifications system using MongoDB, serving 9M monthly users
+- Ran code reviews and set engineering standards
+
+Full Stack Engineer, FinEdge (2021 - 2023)
+- Architected the search API using CI/CD, cutting infrastructure cost by 39%
+- Architected the checkout flow using TypeScript, AWS, serving 3M monthly users
+- Implemented a real-time notifications system using CI/CD, lowering p95 latency by 49%
+- Implemented a real-time notifications system using Jest, React, CI/CD, reducing page load time by 48%
+
+EDUCATION
+B.Sc Mathematics, Delhi University

@@ -1,0 +1,27 @@
+Name: Zara Chen
+Email: zara.chen@example.com
+Title: Senior UI Engineer
+Location: Chennai
+Total Experience: 6 years
+
+SUMMARY
+Senior UI Engineer with 6 years of experience working with Angular, TypeScript, HTML/CSS, Jest. Comfortable owning features end to end.
+
+SKILLS
+Angular, TypeScript, HTML/CSS, Jest, REST APIs
+
+EXPERIENCE
+Senior UI Engineer, Nakatomi Cloud (2024 - Present)
+- Refactored a customer-facing dashboard using TypeScript, Jest, REST APIs
+- Designed the onboarding experience using Jest, REST APIs
+- Optimized a customer-facing dashboard using HTML/CSS
+- Shipped the mobile companion app using HTML/CSS, Angular
+
+UI Engineer, Nakatomi Cloud (2020 - 2024)
+- Architected an internal admin portal using HTML/CSS, TypeScript, reducing page load time by 60%
+- Maintained a real-time notifications system using TypeScript, Jest
+- Architected a design-system component library using TypeScript, Jest, HTML/CSS
+- Optimized the payments service using Jest, TypeScript, HTML/CSS
+
+EDUCATION
+MBA, IIM Bangalore

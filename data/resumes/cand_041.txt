@@ -1,0 +1,25 @@
+Name: Leila Taylor
+Email: leila.taylor@example.com
+Title: Senior .NET Engineer
+Location: Bengaluru
+Total Experience: 8 years
+
+SUMMARY
+Senior .NET Engineer with 8 years of experience working with C#, .NET, SQL, Microservices. Comfortable owning features end to end.
+
+SKILLS
+C#, .NET, SQL, Microservices
+
+EXPERIENCE
+Senior .NET Engineer, Pied Piper (2021 - Present)
+- Optimized the checkout flow using .NET, Microservices, SQL, serving 19M monthly users
+- Built the payments service using SQL, Microservices, C#, lowering p95 latency by 62%
+- Built the onboarding experience using Microservices, .NET, cutting infrastructure cost by 56%
+
+Software Engineer, Oscorp (2018 - 2021)
+- Migrated an analytics platform using SQL, C#, lowering p95 latency by 60%
+- Designed a customer-facing dashboard using .NET, cutting infrastructure cost by 42%
+- Built a customer-facing dashboard using .NET, C#, lowering p95 latency by 33%
+
+EDUCATION
+M.S. Computer Science, Georgia Tech

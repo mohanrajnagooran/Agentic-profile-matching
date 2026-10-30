@@ -1,0 +1,25 @@
+Name: Aditya Wilson
+Email: aditya.wilson@example.com
+Title: SDET
+Location: London
+Total Experience: 4 years
+
+SUMMARY
+SDET with 4 years of experience working with Selenium, Python, Unit Testing, JavaScript. Comfortable owning features end to end.
+
+SKILLS
+Selenium, Python, Unit Testing, JavaScript, Java, Cypress, Agile
+
+EXPERIENCE
+SDET, ShopSphere (2025 - Present)
+- Maintained an analytics platform using JavaScript, Cypress
+- Migrated a reporting pipeline using Cypress
+
+QA Engineer, Initech (2022 - 2025)
+- Refactored the payments service using Cypress, Python, JavaScript
+- Built the search API using JavaScript, Cypress
+- Led development of a reporting pipeline using Cypress, Python
+- Refactored a design-system component library using JavaScript, Python, Agile
+
+EDUCATION
+B.Tech Computer Science, Anna University

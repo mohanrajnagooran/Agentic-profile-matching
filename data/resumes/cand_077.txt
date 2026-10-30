@@ -1,0 +1,27 @@
+Name: Tariq Khan
+Email: tariq.khan@example.com
+Title: Senior DevOps Engineer
+Location: Toronto
+Total Experience: 5 years
+
+SUMMARY
+Senior DevOps Engineer with 5 years of experience working with Docker, Kubernetes, AWS, Terraform. Enjoys solving performance and scale problems.
+
+SKILLS
+Docker, Kubernetes, AWS, Terraform, Python, Linux, Go, Azure, GCP, Agile
+
+EXPERIENCE
+Senior DevOps Engineer, Soylent Tech (2023 - Present)
+- Designed an analytics platform using Azure, cutting infrastructure cost by 63%
+- Maintained the mobile companion app using Docker, Linux, GCP
+- Collaborated with product and design in an Agile team
+
+Site Reliability Engineer, Hooli (2021 - 2023)
+- Led development of a real-time notifications system using Go, GCP
+- Built the mobile companion app using Go, Docker
+
+EDUCATION
+Coding Bootcamp, General Assembly
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)

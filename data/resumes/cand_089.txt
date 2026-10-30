@@ -1,0 +1,21 @@
+Name: Hannah Moore
+Email: hannah.moore@example.com
+Title: Frontend Developer
+Location: London
+Total Experience: 1 years
+
+SUMMARY
+Frontend Developer with 1 year of experience working with React, JavaScript, HTML/CSS, TypeScript. Focused on shipping user-centric products.
+
+SKILLS
+React, JavaScript, HTML/CSS, TypeScript, Node.js, Figma
+
+EXPERIENCE
+Frontend Developer, Acme Corp (2025 - Present)
+- Designed the search API using Figma, HTML/CSS, reducing incident rate by 34%
+- Shipped a reporting pipeline using HTML/CSS, TypeScript, cutting infrastructure cost by 18%
+- Refactored an analytics platform using JavaScript, Node.js, reducing incident rate by 46%
+- Architected the payments service using TypeScript, reducing page load time by 64%
+
+EDUCATION
+B.Sc Mathematics, Delhi University

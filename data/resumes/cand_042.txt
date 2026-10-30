@@ -1,0 +1,26 @@
+Name: Rohan Garcia
+Email: rohan.garcia@example.com
+Title: Senior Data Scientist
+Location: London
+Total Experience: 5 years
+
+SUMMARY
+Senior Data Scientist with 5 years of experience working with Python, Machine Learning, Pandas, SQL. Focused on shipping user-centric products.
+
+SKILLS
+Python, Machine Learning, Pandas, SQL, PyTorch, scikit-learn
+
+EXPERIENCE
+Senior Data Scientist, EduNova (2024 - Present)
+- Architected a real-time notifications system using SQL, PyTorch
+- Designed a multi-tenant SaaS platform using Machine Learning
+- Led development of a real-time notifications system using SQL, Pandas
+- Maintained a multi-tenant SaaS platform using Machine Learning
+- Ran code reviews and set engineering standards
+
+Data Scientist, Hooli (2021 - 2024)
+- Architected the onboarding experience using PyTorch, scikit-learn
+- Optimized a reporting pipeline using PyTorch, scikit-learn
+
+EDUCATION
+MBA, IIM Bangalore

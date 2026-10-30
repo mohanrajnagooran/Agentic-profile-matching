@@ -1,0 +1,38 @@
+Name: Grace Kumar
+Email: grace.kumar@example.com
+Title: Senior Data Scientist
+Location: Pune
+Total Experience: 7 years
+
+SUMMARY
+Senior Data Scientist with 7 years of experience working with Python, Machine Learning, Pandas, SQL. Enjoys solving performance and scale problems.
+
+SKILLS
+Python, Machine Learning, Pandas, SQL, NLP
+
+EXPERIENCE
+Senior Data Scientist, Cyberdyne (2025 - Present)
+- Designed an internal admin portal using Python, Machine Learning, lowering p95 latency by 42%
+- Optimized the checkout flow using Python, cutting infrastructure cost by 39%
+- Built the search API using Python, NLP, Pandas, cutting infrastructure cost by 22%
+- Implemented an analytics platform using Python, improving conversion by 49%
+- Collaborated with product and design in an Agile team
+
+Data Scientist, Soylent Tech (2023 - 2025)
+- Refactored a design-system component library using Machine Learning, reducing page load time by 39%
+- Optimized an internal admin portal using SQL, Machine Learning, improving conversion by 58%
+- Led development of a customer-facing dashboard using SQL, Machine Learning, lowering p95 latency by 48%
+
+Data Analyst, Oscorp (2020 - 2023)
+- Designed the onboarding experience using Machine Learning, Pandas, reducing incident rate by 43%
+- Shipped an analytics platform using Pandas, Machine Learning, cutting infrastructure cost by 27%
+
+Data Analyst, PayStream (2019 - 2020)
+- Architected an analytics platform using NLP, reducing incident rate by 14%
+- Architected a real-time notifications system using Pandas, NLP, Machine Learning, reducing page load time by 47%
+
+EDUCATION
+-
+
+CERTIFICATIONS
+TensorFlow Developer Certificate

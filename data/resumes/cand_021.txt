@@ -1,0 +1,29 @@
+Name: Emma Reddy
+Email: emma.reddy@example.com
+Title: Tech Lead
+Location: London
+Total Experience: 10 years
+
+SUMMARY
+Tech Lead with 10 years of experience working with Java, Spring Boot, SQL, Microservices. Enjoys solving performance and scale problems.
+
+SKILLS
+Java, Spring Boot, SQL, Microservices, REST APIs, MySQL, Kafka, Kubernetes, Docker, AWS, Agile
+
+EXPERIENCE
+Tech Lead, ShopSphere (2021 - Present)
+- Migrated the payments service using SQL, Spring Boot, reducing incident rate by 61%
+- Optimized a multi-tenant SaaS platform using Agile
+- Refactored an internal admin portal using SQL, Agile, AWS, lowering p95 latency by 40%
+- Collaborated with product and design in an Agile team
+
+Senior Software Engineer, FinEdge (2016 - 2021)
+- Maintained the search API using AWS, Docker, Spring Boot
+- Refactored an internal admin portal using Spring Boot, Microservices
+- Architected a reporting pipeline using Agile
+
+EDUCATION
+Coding Bootcamp, General Assembly
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

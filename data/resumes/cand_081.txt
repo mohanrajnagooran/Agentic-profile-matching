@@ -1,0 +1,20 @@
+Name: Mateo Nguyen
+Email: mateo.nguyen@example.com
+Title: Backend Engineer
+Location: London
+Total Experience: 2 years
+
+SUMMARY
+Backend Engineer with 2 years of experience working with Python, Django, PostgreSQL, REST APIs. Enjoys solving performance and scale problems.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Celery, Redis, AWS, Docker, System Design
+
+EXPERIENCE
+Backend Engineer, Medisync (2024 - Present)
+- Implemented an analytics platform using Python, Docker, AWS, reducing incident rate by 29%
+- Refactored a design-system component library using Python, System Design
+- Designed an internal admin portal using Docker
+
+EDUCATION
+-

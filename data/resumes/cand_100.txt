@@ -1,0 +1,30 @@
+Name: Leila Anderson
+Email: leila.anderson@example.com
+Title: Site Reliability Engineer
+Location: London
+Total Experience: 3 years
+
+SUMMARY
+Site Reliability Engineer with 3 years of experience working with Docker, AWS, Terraform, CI/CD. Comfortable owning features end to end.
+
+SKILLS
+Docker, AWS, Terraform, CI/CD, Go, Python, GCP, Agile
+
+EXPERIENCE
+Site Reliability Engineer, HealthBridge (2025 - Present)
+- Maintained the mobile companion app using Terraform, CI/CD
+- Architected the onboarding experience using Go
+- Migrated a real-time notifications system using Go, AWS, GCP, reducing incident rate by 39%
+
+DevOps Engineer, Soylent Tech (2022 - 2024)
+- Refactored the checkout flow using Go, serving 19M monthly users
+- Architected an internal admin portal using Docker, cutting infrastructure cost by 65%
+- Refactored an analytics platform using Agile, Go, Docker, improving conversion by 60%
+- Implemented an internal admin portal using Go, Docker, reducing page load time by 59%
+
+EDUCATION
+Coding Bootcamp, General Assembly
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate
+Certified ScrumMaster (CSM)

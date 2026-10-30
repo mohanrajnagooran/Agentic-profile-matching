@@ -1,0 +1,25 @@
+Name: Ben Singh
+Email: ben.singh@example.com
+Title: UI Engineer
+Location: Bengaluru
+Total Experience: 3 years
+
+SUMMARY
+UI Engineer with 3 years of experience working with TypeScript, HTML/CSS, JavaScript, Agile. Enjoys solving performance and scale problems.
+
+SKILLS
+TypeScript, HTML/CSS, JavaScript, Agile
+
+EXPERIENCE
+UI Engineer, FinEdge (2025 - Present)
+- Built a reporting pipeline using JavaScript
+- Optimized an internal admin portal using TypeScript, improving conversion by 22%
+
+Angular Developer, Nakatomi Cloud (2023 - 2025)
+- Led development of a customer-facing dashboard using HTML/CSS, Agile, reducing page load time by 33%
+- Migrated a real-time notifications system using HTML/CSS, Agile, JavaScript
+- Built a reporting pipeline using HTML/CSS, Agile, JavaScript, reducing page load time by 39%
+- Implemented an internal admin portal using JavaScript, HTML/CSS, Agile, lowering p95 latency by 30%
+
+EDUCATION
+MBA, IIM Bangalore

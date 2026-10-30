@@ -1,0 +1,21 @@
+Name: Divya Sharma
+Email: divya.sharma@example.com
+Title: Mobile Developer
+Location: Toronto
+Total Experience: 1 years
+
+SUMMARY
+Mobile Developer with 1 year of experience working with JavaScript, Redux, Android, Agile. Focused on shipping user-centric products.
+
+SKILLS
+JavaScript, Redux, Android, Agile
+
+EXPERIENCE
+Mobile Developer, Massive Dynamic (2025 - Present)
+- Shipped an internal admin portal using JavaScript, Agile
+- Built the onboarding experience using Agile, Redux
+- Migrated the payments service using Android, Agile, improving conversion by 44%
+- Designed the onboarding experience using JavaScript, Agile
+
+EDUCATION
+B.Sc Mathematics, Delhi University

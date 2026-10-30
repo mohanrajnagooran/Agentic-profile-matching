@@ -1,0 +1,25 @@
+Name: Noah Das
+Email: noah.das@example.com
+Title: Mobile Engineer
+Location: London
+Total Experience: 4 years
+
+SUMMARY
+Mobile Engineer with 4 years of experience working with JavaScript, TypeScript, Swift, React. Passionate about clean, maintainable code.
+
+SKILLS
+JavaScript, TypeScript, Swift, React, Android, Flutter, iOS, Kotlin, Agile
+
+EXPERIENCE
+Mobile Engineer, Globex (2025 - Present)
+- Architected an analytics platform using Kotlin, TypeScript
+- Designed a multi-tenant SaaS platform using Android, Kotlin, React
+
+Mobile Developer, PayStream (2022 - 2025)
+- Architected the search API using JavaScript
+- Shipped the mobile companion app using JavaScript, Agile
+- Optimized the onboarding experience using TypeScript
+- Optimized the onboarding experience using JavaScript
+
+EDUCATION
+MBA, IIM Bangalore

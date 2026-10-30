@@ -1,0 +1,30 @@
+Name: Aditya Anderson
+Email: aditya.anderson@example.com
+Title: Senior Full Stack Engineer
+Location: Chennai
+Total Experience: 6 years
+
+SUMMARY
+Senior Full Stack Engineer with 6 years of experience working with React, JavaScript, REST APIs, Next.js. Passionate about clean, maintainable code.
+
+SKILLS
+React, JavaScript, REST APIs, Next.js, Express, Docker
+
+EXPERIENCE
+Senior Full Stack Engineer, ShopSphere (2024 - Present)
+- Refactored a customer-facing dashboard using Docker, REST APIs, lowering p95 latency by 56%
+- Architected the search API using Express, JavaScript, serving 16M monthly users
+- Mentored 3 junior engineers
+
+Full Stack Engineer, Vandelay Industries (2022 - 2024)
+- Built an internal admin portal using JavaScript, Express, reducing incident rate by 57%
+- Shipped a multi-tenant SaaS platform using Express, JavaScript, reducing page load time by 33%
+
+Full Stack Developer, Cyberdyne (2020 - 2022)
+- Shipped the checkout flow using Next.js, Docker, lowering p95 latency by 56%
+- Refactored a customer-facing dashboard using Docker, cutting infrastructure cost by 50%
+- Led development of a reporting pipeline using Next.js, Docker, lowering p95 latency by 16%
+- Optimized a design-system component library using Next.js, Docker, reducing page load time by 28%
+
+EDUCATION
+B.E. Information Technology, VIT

@@ -1,0 +1,22 @@
+Name: Felix Patel
+Email: felix.patel@example.com
+Title: Python Developer
+Location: Mumbai
+Total Experience: 1 years
+
+SUMMARY
+Python Developer with 1 year of experience working with Python, Django, PostgreSQL, REST APIs. Comfortable owning features end to end.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, System Design, Redis, Agile
+
+EXPERIENCE
+Python Developer, Pied Piper (2025 - Present)
+- Maintained the search API using System Design, PostgreSQL, reducing incident rate by 43%
+- Optimized the mobile companion app using PostgreSQL, reducing page load time by 38%
+
+EDUCATION
+B.A. Economics, University of Mumbai
+
+CERTIFICATIONS
+Certified ScrumMaster (CSM)
